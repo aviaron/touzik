@@ -23,16 +23,11 @@ get_header(); ?>
       $pictures = get_field('pictures');
 
       if( $pictures ): ?>
-          <ul>
-              <?php foreach( $pictures as $picture ): ?>
-                  <li>
-                      <a href="<?php echo $picture['url']; ?>">
-                           <img src="<?php echo $picture['sizes']['thumbnail']; ?>" alt="<?php echo $picture['alt']; ?>" />
-                      </a>
-                      <p><?php echo $picture['caption']; ?></p>
-                  </li>
-              <?php endforeach; ?>
-          </ul>
+        <ul>
+          <?php foreach( $pictures as $picture ): ?>
+            <li><img src="<?= $picture['url'] ?>" alt="<?php echo $picture['alt']; ?>" /></li>
+          <?php endforeach; ?>
+        </ul>
       <?php endif; ?>
 
       <?php if ( has_post_thumbnail() ) : ?>
