@@ -23,15 +23,24 @@ get_header(); ?>
       $pictures = get_field('pictures');
 
       if( $pictures ): ?>
-        <ul>
+        <ul class="pet-gallery owl-carousel owl-theme inline-list">
           <?php foreach( $pictures as $picture ): ?>
-            <li><img src="<?= $picture['url'] ?>" alt="<?php echo $picture['alt']; ?>" /></li>
+            <li class="item">
+              <img src="<?= $picture['url'] ?>" alt="<?php echo $picture['alt']; ?>" />
+            </li>
           <?php endforeach; ?>
         </ul>
       <?php endif; ?>
 
-      <?php the_content(); ?>
+      <?php if ( has_post_thumbnail() ) : ?>
+        <div class="row">
+          <div class="column">
+            <?php the_post_thumbnail( '', array('class' => 'th') ); ?>
+          </div>
+        </div>
+      <?php endif; ?>
 
+      <?php the_content(); ?>
       </div>
       <footer>
         <?php wp_link_pages( array('before' => '<nav id="page-nav"><p>' . __( 'Pages:', 'foundationpress' ), 'after' => '</p></nav>' ) ); ?>
