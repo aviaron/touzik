@@ -107,7 +107,7 @@ acf_add_local_field_group(array (
       'label' => 'אומץ',
       'name' => 'adopted',
       'type' => 'true_false',
-      'required' => 1,
+      'required' => 0,
       'message' => '',
       'default_value' => 0,
     ),
