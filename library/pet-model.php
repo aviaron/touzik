@@ -94,7 +94,7 @@ acf_add_local_field_group(array (
       'required' => 0,
       'choices' => array (
         'licker' => 'לקקן',
-        'nobel' => 'אצילי',
+        'noble' => 'אצילי',
         'housebroken' => 'מחונך לצרכים',
       ),
       'default_value' => array (
