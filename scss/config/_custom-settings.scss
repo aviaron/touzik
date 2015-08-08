@@ -13,25 +13,26 @@ $font-weight-normal: normal !default;
 $font-weight-bold: bold !default;
 
 // Foundation color naming conventions
-$white       : #FFFFFF;
-$ghost       : #FAFAFA;
-$snow        : #F9F9F9;
-$vapor       : #F6F6F6;
-$white-smoke : #F5F5F5;
-$silver      : #EFEFEF;
-$smoke       : #EEEEEE;
-$gainsboro   : #DDDDDD;
-$iron        : #CCCCCC;
-$base        : #AAAAAA;
-$aluminum    : #999999;
-$jumbo       : #888888;
-$monsoon     : #777777;
-$steel       : #666666;
-$charcoal    : #555555;
-$tuatara     : #444444;
-$oil         : #333333;
-$jet         : #222222;
-$black       : #000000;
+$white         : #FFFFFF;
+$ghost         : #FAFAFA;
+$snow          : #F9F9F9;
+$vapor         : #F6F6F6;
+$white-smoke   : #F5F5F5;
+$silver        : #EFEFEF;
+$smoke         : #EEEEEE;
+$gainsboro     : #DDDDDD;
+$iron          : #CCCCCC;
+$base          : #AAAAAA;
+$aluminum      : #999999;
+$jumbo         : #888888;
+$monsoon       : #777777;
+$steel         : #666666;
+$charcoal      : #555555;
+$tuatara       : #444444;
+$oil           : #333333;
+$jet           : #222222;
+$black         : #000000;
+$greyish-brown : #3d3d3d;
 
 // We use these as default colors throughout
 $primary-color: #008CBA;
@@ -43,7 +44,7 @@ $info-color: #a0d3e8;
 
 // We use these to control various global styles
 $body-bg: $white;
-$body-font-color: $jet;
+$body-font-color: $greyish-brown;
 $body-font-family: $font-family-sans-serif;
 $body-font-weight: $font-weight-normal;
 $body-font-style: normal;
@@ -57,3 +58,9 @@ $medium-breakpoint: em-calc(1024);
 $topbar-breakpoint: em-calc(820);
 $large-breakpoint:  em-calc(1440);
 $xlarge-breakpoint: em-calc(1920);
+
+// Topbar
+$topbar-height: rem-calc(123);
+$topbar-bg-color: $white;
+$topbar-title-font-size: rem-calc(30);
+$topbar-link-color: $body-font-color;
