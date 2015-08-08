@@ -60,6 +60,12 @@
 
 
 /*
+  Vendor stuff
+*/
+@import "../bower_components/owl.carousel/dist/assets/owl.carousel";
+@import "../bower_components/owl.carousel/dist/assets/owl.theme.default";
+
+/*
   My custom styles:
   Add your scss files below to structure your project styles
 */
@@ -69,3 +75,4 @@
 @import "site/topbar";
 @import "site/hero";
 @import "site/footer";
+@import "site/pet-gallery"

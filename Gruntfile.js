@@ -87,6 +87,9 @@ module.exports = function(grunt) {
           'bower_components/foundation/js/foundation/foundation.tooltip.js',
           'bower_components/foundation/js/foundation/foundation.topbar.js',
 
+          // Vendor stuff
+          'bower_components/owl.carousel/dist/owl.carousel.js',
+
           // Include your own custom scripts (located in the custom folder)
           'js/custom/*.js'
 
