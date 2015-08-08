@@ -1,10 +1,7 @@
-// Add some whitespace between top bar and content
-.top-bar-container, .tab-bar {
-	margin-bottom: rem-calc(32);
-}
 
 .top-bar-container {
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.27);
+  position: relative;
 }
 
 .top-bar .name {
