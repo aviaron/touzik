@@ -1,0 +1,135 @@
+<?php
+
+// Create Pet post type
+if( function_exists( 'add_action' ) ):
+
+add_action( 'init', 'create_post_type' );
+function create_post_type() {
+  register_post_type( 'pet',
+    array(
+      'labels' => array(
+        'name' => __( 'Pets' ),
+        'singular_name' => __( 'Pet' )
+      ),
+      'public' => true,
+      'has_archive' => true,
+      'menu_icon' => 'dashicons-carrot',
+      'menu_position' => 3,
+    )
+  );
+}
+
+endif;
+
+acf_add_local_field_group(array (
+  'key' => 'group_55c2541eb201b',
+  'title' => 'שדות בע״ח לאימוץ',
+  'fields' => array (
+    array (
+      'key' => 'field_55c25434d0637',
+      'label' => 'סוג',
+      'name' => 'type',
+      'type' => 'radio',
+      'required' => 1,
+      'choices' => array (
+        'dog' => 'כלב',
+        'cat' => 'חתול',
+      ),
+      'default_value' => 'dog',
+      'layout' => 'horizontal',
+    ),
+    array (
+      'key' => 'field_55c25454d0638',
+      'label' => 'שם',
+      'name' => 'pet_name',
+      'type' => 'text',
+      'required' => 1,
+    ),
+    array (
+      'key' => 'field_55c25464d0639',
+      'label' => 'מין',
+      'name' => 'sex',
+      'type' => 'radio',
+      'required' => 0,
+      'choices' => array (
+        'male' => 'זכר',
+        'female' => 'נקבה',
+        'other' => 'אחר',
+      ),
+      'layout' => 'horizontal',
+    ),
+    array (
+      'key' => 'field_55c254a4d063a',
+      'label' => 'יום הולדת',
+      'name' => 'birthday',
+      'type' => 'date_picker',
+      'instructions' => 'תאריך משוער (להצגת גיל)',
+      'required' => 0,
+      'display_format' => 'F j, Y',
+      'return_format' => 'Ymd',
+    ),
+    array (
+      'key' => 'field_55c2559dd063c',
+      'label' => 'תמונות',
+      'name' => 'pictures',
+      'type' => 'gallery',
+      'required' => 1,
+      'min' => 1,
+      'max' => '',
+      'preview_size' => 'medium',
+      'library' => 'all',
+      'min_width' => '',
+      'min_height' => '',
+      'min_size' => '',
+      'max_width' => '',
+      'max_height' => '',
+      'max_size' => '',
+      'mime_types' => '',
+    ),
+    array (
+      'key' => 'field_55c2718f74be4',
+      'label' => 'מאפיינים',
+      'name' => 'attributes',
+      'type' => 'checkbox',
+      'required' => 0,
+      'choices' => array (
+        'licker' => 'לקקן',
+        'nobel' => 'אצילי',
+        'housebroken' => 'מחונך לצרכים',
+      ),
+      'default_value' => array (
+      ),
+      'layout' => 'vertical',
+      'toggle' => 0,
+    ),
+    array (
+      'key' => 'field_55c2721b33b56',
+      'label' => 'אומץ',
+      'name' => 'adopted',
+      'type' => 'true_false',
+      'required' => 1,
+      'message' => '',
+      'default_value' => 0,
+    ),
+  ),
+  'location' => array (
+    array (
+      array (
+        'param' => 'post_type',
+        'operator' => '==',
+        'value' => 'pet',
+      ),
+    ),
+  ),
+  'menu_order' => 0,
+  'position' => 'normal',
+  'style' => 'default',
+  'label_placement' => 'top',
+  'instruction_placement' => 'label',
+  'hide_on_screen' => array (
+    0 => 'author',
+    1 => 'featured_image',
+    2 => 'categories',
+  ),
+));
+?>

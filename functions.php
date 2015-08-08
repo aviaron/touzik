@@ -18,6 +18,9 @@
 /** Various clean up functions */
 require_once( 'library/cleanup.php' );
 
+/** Pet model */
+require_once( 'library/pet-model.php' );
+
 /** Required for Foundation to work properly */
 require_once( 'library/foundation.php' );
 
