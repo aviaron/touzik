@@ -4,3 +4,7 @@ node_modules/
 bower_components/
 *.log
 vendor/
+touzik.sublime-project
+touzik.sublime-workspace
+css/foundation.css
+css/foundation.css.map
