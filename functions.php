@@ -17,6 +17,9 @@
 /** Various clean up functions */
 require_once( 'library/cleanup.php' );
 
+/** Touzik initialization **/
+require_once( 'library/initialization.php' );
+
 /** Pet model */
 require_once( 'library/pet-model.php' );
 
