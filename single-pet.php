@@ -32,15 +32,18 @@ get_header(); ?>
         </ul>
       <?php endif; ?>
 
-      <?php if ( has_post_thumbnail() ) : ?>
-        <div class="row">
-          <div class="column">
-            <?php the_post_thumbnail( '', array('class' => 'th') ); ?>
-          </div>
-        </div>
-      <?php endif; ?>
+      <div class='pet-attributes'>
+        <ul>
+          <?php foreach( get_field('attributes') as $attribute ): ?>
+            <li>
+              <div class="<?= esc_attr( $attribute ); ?>">
+                <?= esc_html( $attribute ); ?>
+              </div>
+            </li>
+          <?php endforeach; ?>
+        </ul>
+      </div>
 
-      <?php the_content(); ?>
       </div>
       <footer>
         <?php wp_link_pages( array('before' => '<nav id="page-nav"><p>' . __( 'Pages:', 'foundationpress' ), 'after' => '</p></nav>' ) ); ?>
