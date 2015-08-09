@@ -27,7 +27,6 @@
 </div><!-- Close off-canvas content wrapper -->
 <?php endif; ?>
 
-
 <?php wp_footer(); ?>
 <?php do_action( 'foundationpress_before_closing_body' ); ?>
 </body>
