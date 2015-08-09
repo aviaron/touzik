@@ -3,8 +3,8 @@
 	footer.row {
 		margin-top: rem-calc(60);
 
-		.widget.columns:first-child:last-child {
-			float: none;
+		.widget {
+      margin-bottom: 80px;
 		}
 	}
 }
