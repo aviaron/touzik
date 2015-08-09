@@ -21,6 +21,8 @@ function create_post_type() {
 
 endif;
 
+if( function_exists( 'acf_add_local_field_group' ) ):
+
 acf_add_local_field_group(array (
   'key' => 'group_55c2541eb201b',
   'title' => 'שדות בע״ח לאימוץ',
@@ -132,4 +134,6 @@ acf_add_local_field_group(array (
     2 => 'categories',
   ),
 ));
+
+endif;
 ?>
