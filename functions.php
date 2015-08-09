@@ -53,4 +53,7 @@ require_once( 'library/sticky-posts.php' );
 /** Configure responsive image sizes */
 require_once( 'library/responsive-images.php' );
 
+/** Add Header image */
+require_once( 'library/facebook-sdk.php' );
+
 ?>
