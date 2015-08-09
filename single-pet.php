@@ -34,6 +34,7 @@ get_header(); ?>
 
       <div class='pet-attributes'>
         <ul>
+          <?php if( get_field( 'attributes' ) ): ?>
           <?php foreach( get_field('attributes') as $attribute ): ?>
             <li>
               <div class="<?= esc_attr( $attribute ); ?>">
@@ -41,6 +42,7 @@ get_header(); ?>
               </div>
             </li>
           <?php endforeach; ?>
+          <?php endif; ?>
         </ul>
       </div>
 
