@@ -13,10 +13,20 @@
 
 </section>
 <footer class="row">
-	<?php do_action( 'foundationpress_before_footer' ); ?>
-	<?php dynamic_sidebar( 'footer-widgets' ); ?>
-	<?php do_action( 'foundationpress_after_footer' ); ?>
+  <?php do_action( 'foundationpress_before_footer' ); ?>
+  <div class="large-6 columns">
+    <div class="row">
+      <?php dynamic_sidebar( 'footer-widgets-l' ); ?>
+    </div>
+  </div>
+  <div class="large-6 columns">
+    <div class="row">
+      <?php dynamic_sidebar( 'footer-widgets-r' ); ?>
+    </div>
+  </div>
+  <?php do_action( 'foundationpress_after_footer' ); ?>
 </footer>
+
 <a class="exit-off-canvas"></a>
 
 	<?php do_action( 'foundationpress_layout_end' ); ?>
