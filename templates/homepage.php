@@ -26,7 +26,7 @@ get_header(); ?>
         ?>
 
         <li <?php post_class() ?> id="post-<?php the_ID(); ?>">
-          <?php get_template_part( 'box', get_post_type( $post ) ); ?>
+          <?php get_template_part( 'parts/box', get_post_type( $post ) ); ?>
         </li>
 
       <?php endforeach; ?>
