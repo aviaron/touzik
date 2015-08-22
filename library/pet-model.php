@@ -136,5 +136,62 @@ acf_add_local_field_group(array (
   ),
 ));
 
+acf_add_local_field_group(array (
+  'key' => 'group_55d8b325ed736',
+  'title' => 'הופעה בעמוד ראשי',
+  'fields' => array (
+    array (
+      'key' => 'field_55d8b4fcff1a4',
+      'label' => 'מופיע בעמוד ראשי?',
+      'name' => 'homepage_index',
+      'type' => 'select',
+      'instructions' => '',
+      'required' => 0,
+      'conditional_logic' => 0,
+      'choices' => array (
+        0 => 'לא',
+        1 => 1,
+        2 => 2,
+        3 => 3,
+        4 => 4,
+        5 => 5,
+        6 => 6,
+        7 => 7,
+        8 => 8,
+        9 => 9,
+        10 => 10,
+        11 => 11,
+        12 => 12,
+        13 => 13,
+        14 => 14,
+        15 => 15,
+        16 => 16,
+        17 => 17,
+        18 => 18,
+      ),
+      'default_value' => array (0 => 0),
+      'multiple' => 0,
+    ),
+  ),
+  'menu_order' => 0,
+  'position' => 'side',
+  'location' => array (
+    array (
+      array (
+        'param' => 'post_type',
+        'operator' => '==',
+        'value' => 'pet',
+      ),
+    ),
+    array (
+      array (
+        'param' => 'post_type',
+        'operator' => '!=',
+        'value' => 'pet',
+      ),
+    ),
+  ),
+));
+
 endif;
 ?>
