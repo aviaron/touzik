@@ -172,9 +172,24 @@ acf_add_local_field_group(array (
       'default_value' => array (0 => 0),
       'multiple' => 0,
     ),
+    array (
+      'key' => 'field_55d8cea22a961',
+      'label' => 'קישור מצורף',
+      'name' => 'link',
+      'type' => 'url',
+      'required' => 0,
+      'placeholder' => 'http://',
+    ),
+    array (
+      'key' => 'field_55d8c3a22a209',
+      'label' => 'כותרת לקישור',
+      'name' => 'link_text',
+      'type' => 'text',
+      'required' => 0,
+    ),
   ),
   'menu_order' => 0,
-  'position' => 'side',
+  'position' => 'normal',
   'location' => array (
     array (
       array (
