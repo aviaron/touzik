@@ -173,6 +173,17 @@ acf_add_local_field_group(array (
       'multiple' => 0,
     ),
     array (
+      'key' => 'field_55d8b4f0911a6',
+      'label' => 'עיצוב',
+      'name' => 'box_theme',
+      'type' => 'select',
+      'choices' => array (
+        'white' => 'לבן',
+        'blue' => 'כחול',
+      ),
+      'default_value' => array ('white' => 'לבן'),
+    ),
+    array (
       'key' => 'field_55d8cea22a961',
       'label' => 'קישור מצורף',
       'name' => 'link',
