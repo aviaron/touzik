@@ -8,8 +8,13 @@ get_header(); ?>
   <?php
 
     $posts = get_posts(array(
-      'posts_per_page'  => 14,
-      'post_type'     => 'pet'
+      'posts_per_page'  => 18,
+      'post_type'     => array( 'post', 'page', 'pet' ),
+      'meta_key' => 'homepage_index',
+      'meta_value'     => '0',
+      'meta_compare'   => '>',
+      'orderby' => 'meta_value',
+      'order' => 'ASC'
     ));
 
     if( $posts ): ?>
@@ -19,7 +24,7 @@ get_header(); ?>
       <?php foreach( $posts as $post ):
         setup_postdata( $post )
         ?>
-        foobatr
+
         <li <?php post_class() ?> id="post-<?php the_ID(); ?>">
           <header>
             <h1 class="entry-title"><?php the_title(); ?></h1>
