@@ -15,6 +15,7 @@ function create_post_type() {
       'has_archive' => true,
       'menu_icon' => 'dashicons-carrot',
       'menu_position' => 3,
+      'supports' => array( 'title', 'editor', 'comments' ),
     )
   );
 }
