@@ -33,7 +33,11 @@ get_header(); ?>
         <h1 class="entry-title"><?php the_title(); ?></h1>
       </header>
 
-      <div class='pet-attributes'>
+      <div class="pet-contact">
+        <?= do_shortcode( '[contact-form-7 id="35" title="התעניינות באימוץ"]' ); ?>
+      </div>
+
+      <div class="pet-attributes">
         <ul>
           <?php if( get_field( 'attributes' ) ): ?>
           <?php foreach( get_field('attributes') as $attribute ): ?>
