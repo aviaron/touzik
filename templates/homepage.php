@@ -26,13 +26,7 @@ get_header(); ?>
         ?>
 
         <li <?php post_class() ?> id="post-<?php the_ID(); ?>">
-          <header>
-            <h1 class="entry-title"><?php the_title(); ?></h1>
-          </header>
-          <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
-          <div class="entry-content">
-            <?php the_content(); ?>
-          </div>
+          <? get_template_part( 'box', get_post_type( $post ) ); ?>
         </li>
 
       <?php endforeach; ?>
