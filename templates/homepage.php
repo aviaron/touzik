@@ -19,14 +19,16 @@ get_header(); ?>
 
     if( $posts ): ?>
 
-      <ul>
+      <ul class="medium-block-grid-3 small-block-grid-1">
 
       <?php foreach( $posts as $post ):
         setup_postdata( $post )
         ?>
 
         <li <?php post_class() ?> id="post-<?php the_ID(); ?>">
-          <?php get_template_part( 'parts/box', get_post_type( $post ) ); ?>
+          <div class="homepage-box">
+            <?php get_template_part( 'parts/box', get_post_type( $post ) ); ?>
+          </div>
         </li>
 
       <?php endforeach; ?>
