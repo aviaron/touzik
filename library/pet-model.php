@@ -180,6 +180,8 @@ acf_add_local_field_group(array (
       'choices' => array (
         'white' => 'לבן',
         'blue' => 'כחול',
+        'orange' => 'כתום',
+        'green' => 'ירוק'
       ),
       'default_value' => array ('white' => 'לבן'),
     ),
