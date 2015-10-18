@@ -57,8 +57,38 @@
     height: 200px;
     line-height: 200px;
   }
+
+  .pet-link { display: none; }
+
   .homepage-box:hover {
-    box-shadow: 0 0 0 5px #628bd8;
+    $hover-color: #628bd8;
+
+    box-shadow: 0 0 0 5px $hover-color;
+    position: relative;
+
+    a::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: white;
+      opacity: 0.3;
+    }
+
+    .pet-link {
+      display: inline-block;
+      position: absolute;
+      top: 125px;
+      left: 40px;
+
+      background-color: $hover-color;
+      color: white;
+
+      padding: 0 10px;
+      border-radius: 5px;
+    }
   }
 }
 
