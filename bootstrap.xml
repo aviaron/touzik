@@ -29,7 +29,7 @@
 	<title>הרצליה אוהבת חיות</title>
 	<link>http://local.wordpress.dev</link>
 	<description>וגם נתניה! וגם הדרום!</description>
-	<pubDate>Sun, 18 Oct 2015 13:58:18 +0000</pubDate>
+	<pubDate>Sun, 18 Oct 2015 16:08:20 +0000</pubDate>
 	<language>he-IL</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://local.wordpress.dev</wp:base_site_url>
@@ -41,6 +41,7 @@
 	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>flamingo_inbound_channel</wp:term_taxonomy><wp:term_slug>contact-form-7</wp:term_slug><wp:term_parent></wp:term_parent><wp:term_name><![CDATA[Contact Form 7]]></wp:term_name></wp:term>
 	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>flamingo_inbound_channel</wp:term_taxonomy><wp:term_slug>%d7%98%d7%95%d7%a4%d7%a1-%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%a7%d7%a9%d7%a8-1</wp:term_slug><wp:term_parent>contact-form-7</wp:term_parent><wp:term_name><![CDATA[התעניינות באימוץ]]></wp:term_name></wp:term>
 	<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>flamingo_inbound_channel</wp:term_taxonomy><wp:term_slug>%d7%94%d7%aa%d7%a2%d7%a0%d7%99%d7%99%d7%a0%d7%95%d7%aa-%d7%9b%d7%9c%d7%9c%d7%99%d7%aa</wp:term_slug><wp:term_parent>contact-form-7</wp:term_parent><wp:term_name><![CDATA[התעניינות כללית]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>6</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>%d7%aa%d7%a4%d7%a8%d7%99%d7%98-%d7%a2%d7%9c%d7%99%d7%95%d7%9f</wp:term_slug><wp:term_name><![CDATA[תפריט עליון]]></wp:term_name></wp:term>
 
 	
 
@@ -698,23 +699,22 @@ admin]]></content:encoded>
 	</item>
 	<item>
 		<title>התנדבות</title>
-		<link>http://local.wordpress.dev/%d7%94%d7%aa%d7%a0%d7%93%d7%91%d7%95%d7%aa/</link>
+		<link>http://local.wordpress.dev/volunteer/</link>
 		<pubDate>Sat, 08 Aug 2015 19:50:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://local.wordpress.dev/?page_id=14</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p dir="rtl"><span class="ArticleBodyTitle">כל פעילות עמותת "הרצליה אוהבת חיות" נשענת על התנדבות.
 </span>אם אתם אוהבים בעלי חיים, נהנים מטיול, משחקים וליקוקים, גרגור חתול הוא הצליל האהוב עליכם וכל כלב או חתול שנמסר לבית חם עושה לכם טוב בלב - מקומכם איתנו – בטיולים היומיים עם הכלבים בכלביה, בהענקת בית אומן ובימי האימוץ.</p>
-<p dir="rtl">הפעילות היא 7 ימים בשבוע לאורך כל השנה. אין צורך בהתחייבות ויש גמישות גדולה בלוחות הזמנים ובסוגי הפעילות. גם תרומה של שעה-שעתיים בשבוע מהווה עזרה אדירה ומצילה חיים.
-
-תחושת הסיפוק והאהבה ללא תנאי שתקבלו מהכלבים ילוו אתכם לכל אורך הדרך ההתנדבותית בהרצליה אוהבת חיות.</p>]]></content:encoded>
+<p dir="rtl">הפעילות היא 7 ימים בשבוע לאורך כל השנה. אין צורך בהתחייבות ויש גמישות גדולה בלוחות הזמנים ובסוגי הפעילות. גם תרומה של שעה-שעתיים בשבוע מהווה עזרה אדירה ומצילה חיים.</p>
+תחושת הסיפוק והאהבה ללא תנאי שתקבלו מהכלבים ילוו אתכם לכל אורך הדרך ההתנדבותית בהרצליה אוהבת חיות.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date>2015-08-08 19:50:02</wp:post_date>
 		<wp:post_date_gmt>2015-08-08 19:50:02</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>%d7%94%d7%aa%d7%a0%d7%93%d7%91%d7%95%d7%aa</wp:post_name>
+		<wp:post_name>volunteer</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -727,7 +727,39 @@ admin]]></content:encoded>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+			<wp:meta_value><![CDATA[templates/page-full.php]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4fcff1a4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>box_theme</wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_box_theme</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4f0911a6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>link</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_link</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8cea22a961]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>link_text</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_link_text</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8c3a22a209]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1481,7 +1513,7 @@ soo@goo.com
 	</item>
 	<item>
 		<title>תרומות</title>
-		<link>http://local.wordpress.dev/%d7%aa%d7%a8%d7%95%d7%9e%d7%95%d7%aa/</link>
+		<link>http://local.wordpress.dev/donate/</link>
 		<pubDate>Sat, 08 Aug 2015 20:13:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://local.wordpress.dev/?page_id=17</guid>
@@ -1495,7 +1527,7 @@ soo@goo.com
 		<wp:post_date_gmt>2015-08-08 20:13:31</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>%d7%aa%d7%a8%d7%95%d7%9e%d7%95%d7%aa</wp:post_name>
+		<wp:post_name>donate</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -1509,6 +1541,38 @@ soo@goo.com
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4fcff1a4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>box_theme</wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_box_theme</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4f0911a6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>link</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_link</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8cea22a961]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>link_text</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_link_text</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8c3a22a209]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1582,7 +1646,7 @@ soo@goo.com
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -1671,6 +1735,850 @@ soo@goo.com
 		<wp:postmeta>
 			<wp:meta_key>_akismet</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>בואו להתנדב</title>
+		<link>http://local.wordpress.dev/%d7%91%d7%95%d7%90%d7%95-%d7%9c%d7%94%d7%aa%d7%a0%d7%93%d7%91/</link>
+		<pubDate>Sun, 18 Oct 2015 13:11:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://local.wordpress.dev/?page_id=119</guid>
+		<description></description>
+		<content:encoded><![CDATA[אם אתם אוהבים בעלי חיים, נהנים מטיול, משחקים וליקוקים, גרגור חתול הוא הצליל האהוב עליכם וכל כלב או חתול שנמסר לבית חם עושה לכם טוב בלב - מקומכם איתנו]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>119</wp:post_id>
+		<wp:post_date>2015-10-18 15:11:05</wp:post_date>
+		<wp:post_date_gmt>2015-10-18 13:11:05</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>%d7%91%d7%95%d7%90%d7%95-%d7%9c%d7%94%d7%aa%d7%a0%d7%93%d7%91</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4fcff1a4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>box_theme</wp:meta_key>
+			<wp:meta_value><![CDATA[orange]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_box_theme</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4f0911a6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>link</wp:meta_key>
+			<wp:meta_value><![CDATA[http://local.wordpress.dev/%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA/]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_link</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8cea22a961]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>link_text</wp:meta_key>
+			<wp:meta_value><![CDATA[עוד פרטים]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_link_text</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8c3a22a209]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>תירמו לעמותה</title>
+		<link>http://local.wordpress.dev/%d7%aa%d7%99%d7%a8%d7%9e%d7%95-%d7%9c%d7%a2%d7%9e%d7%95%d7%aa%d7%94/</link>
+		<pubDate>Sun, 18 Oct 2015 13:55:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://local.wordpress.dev/?page_id=136</guid>
+		<description></description>
+		<content:encoded><![CDATA[פעילות העמותה מתבססת על תרומות. אין בעמותה מקבלי שכר וכל תרומה מממנת ישירות הצלחת חיים של כלבים וחתולים]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>136</wp:post_id>
+		<wp:post_date>2015-10-18 15:55:20</wp:post_date>
+		<wp:post_date_gmt>2015-10-18 13:55:20</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>%d7%aa%d7%99%d7%a8%d7%9e%d7%95-%d7%9c%d7%a2%d7%9e%d7%95%d7%aa%d7%94</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4fcff1a4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>box_theme</wp:meta_key>
+			<wp:meta_value><![CDATA[green]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_box_theme</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4f0911a6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>link</wp:meta_key>
+			<wp:meta_value><![CDATA[http://local.wordpress.dev/%D7%AA%D7%A8%D7%95%D7%9E%D7%95%D7%AA/]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_link</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8cea22a961]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>link_text</wp:meta_key>
+			<wp:meta_value><![CDATA[עוד פרטים]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_link_text</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8c3a22a209]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://local.wordpress.dev/143/</link>
+		<pubDate>Sun, 18 Oct 2015 15:22:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://local.wordpress.dev/?p=143</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>143</wp:post_id>
+		<wp:post_date>2015-10-18 17:22:47</wp:post_date>
+		<wp:post_date_gmt>2015-10-18 15:22:47</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>143</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%d7%aa%d7%a4%d7%a8%d7%99%d7%98-%d7%a2%d7%9c%d7%99%d7%95%d7%9f"><![CDATA[תפריט עליון]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[76]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://local.wordpress.dev/144/</link>
+		<pubDate>Sun, 18 Oct 2015 15:22:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://local.wordpress.dev/?p=144</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>144</wp:post_id>
+		<wp:post_date>2015-10-18 17:22:47</wp:post_date>
+		<wp:post_date_gmt>2015-10-18 15:22:47</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>144</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%d7%aa%d7%a4%d7%a8%d7%99%d7%98-%d7%a2%d7%9c%d7%99%d7%95%d7%9f"><![CDATA[תפריט עליון]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://local.wordpress.dev/145/</link>
+		<pubDate>Sun, 18 Oct 2015 15:22:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://local.wordpress.dev/?p=145</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>145</wp:post_id>
+		<wp:post_date>2015-10-18 17:22:47</wp:post_date>
+		<wp:post_date_gmt>2015-10-18 15:22:47</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>145</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%d7%aa%d7%a4%d7%a8%d7%99%d7%98-%d7%a2%d7%9c%d7%99%d7%95%d7%9f"><![CDATA[תפריט עליון]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[75]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>מידע שימושי</title>
+		<link>http://local.wordpress.dev/info/</link>
+		<pubDate>Sun, 18 Oct 2015 15:24:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://local.wordpress.dev/?page_id=146</guid>
+		<description></description>
+		<content:encoded><![CDATA[לכלבים אין תיאוריות על אהבה, הם מלאי אהבה ומראים אותה ללא חשש וישר מן הלב. כלבך הוא הידיד היחיד שיש לך אשר לא מתרשם מיופי, כוח, שכל, עושר, אומץ והצלחה, הוא פשוט אוהב אותך.
+אימוץ כלב הוא אחריות לחייו: דאג שחיי כלבך יהיו בריאים ומעניינים ולא חד-גוניים. טפח שיגרה יומית של תשומת לב וחיבה, בנה מערכת של אמון וידידות, טייל איתו, שחק איתו והרעף עליו אהבה רבה לה הוא ראוי.
+
+קחו בחשבון תקופת הסתגלות ראשונית של הכלב לביתו החדש: קבלו בהבנה "פספוסים" בעשיית צרכים בחוץ גם אצל כלב מחונך לצרכים עד שיסתגל ללוחות הזמנים שלכם. תנו לכלב חום ואהבה והוא יקבל תחושת בטחון בבית החדש - לדברים טובים מתרגלים מהר!
+
+בריאות: לאחר אימוץ הכלב יש לקחת אותו לבדיקה שגרתית אצל הווטרינר לרישום הכלב, העברת שבב הזיהוי על שמכם וקבלת הדרכה לגבי טיפול שוטף וחיסונים.
+
+בכל התנהגות חריגה, למשל כלב שלא אוכל או שותה במשך למעלה מ-24 שעות, כלב אפאטי, ירוד, מדוכא, מקיא או משלשל – היוועץ מייד בווטרינר.
+
+לעולם אל תשאירו כלב ברכב ללא השגחה, גם לא בצל עם חלון פתוח וגם לא בחורף - כלבים עלולים בקלות למות ממכת חום.
+
+אל תאמצו את הכלב מעבר ליכולתו. הכלב אינו יודע מתי לעצור ויש לאפשר לו מנוחה ושתייה.
+
+יש לשמור על ניקיון הכלב בהברשה, רחצה (לעיתים רחוקות), תספורת (רק אצל ספר כלבים מקצועי!) – היוועץ בווטרינר בביקורך במרפאה.
+
+עיקור/סירוס: חובה! לעיקור/סירוס יתרונות רפואיים-בריאותיים, התנהגותיים ומוסריים ואף כלכליים.
+
+התנהגות: כלב הוא יצור חברתי וסקרן, אסור לבודד אותו, הוא מרגיש בטחון כאשר הוא במחיצת המשפחה. אם כלבך חי מחוץ לבית דאג לבלות איתו ובמחיצתו, אחרת יהפוך למר, עצוב ותוקפן.
+
+כלבים חדשים בבית נוטים לברוח כי עדיין אינם מכירים ואינם קשורים למקום ואליכם. תמיד שימו תג עם טלפון שלכם על הכלב ובאופן עקרוני אל תשאירו כלב חדש לבד בחצר. מרבית מקרי הבריחה קורים מחצרות. כלב יכול לברוח גם מחצר אשר נראית לנו סגורה לחלוטין.
+
+קשירת כלב מותרת לפרקי זמן קצרים בלבד. כלב זקוק לחברה, טיולים והוצאת אנרגיה. אם הנך קושר את הכלב לזמן קצר דאג לרצועה ארוכה אשר תאפשר לכלב תנועה ותמיד דאג שהמקום יהיה מוגן משמש ומגשם. שימרו על מתחם הקשירה פנוי מחפצים אשר הכלב עלול להסתבך בהם.
+
+בימיו הראשונים של הכלב בבית חשוף אותו בהדרגה למפגשים עם אנשים ועם כלבים אחרים. בדוק את התנהגותו, לעיתים כלבים יכולים להגיב בתוקפנות אחד לשני.
+
+אל תרוצו אל הכלב, אל תרגיזו אותו ובדקו את התנהגותו עם ילדים באיטיות.
+
+ציוד בסיסי: קולר, תג עם מספר הטל' שלכם, רצועה, מברשת, מיטה או שמיכה, כלים לאוכל ומים, מזון. אם הכלב ישהה בחצר: מלונה אטומה, יבשה ומקורה, שמיכה או כרית, חצר מגודרת, סגורה ושער נעול.
+
+מזון: דאג לתזונה הולמת לכלב, היוועץ בווטרינר בהתאם לגודל הכלב. רצוי לרכוש מזון יבש איכותי בחנויות לציוד ומזון לבע"ח או אצל וטרינר. ניתן לחלק את כמות האוכל ל-2 ארוחות נפרדות. עצמות עוף, שוקולד ותרופות מסוימות של בני אדם מזיקים לכלבים! בכל מקרה, מומלץ לקנות לכלב צעצועים ועצמות המיועדים לו, למשחק ועניין.
+
+אל תניחו לכלב לאכול שאריות ברחוב או להתקרב לצואת כלבים אחרים, זה עלול להיות מסוכן עבורו.
+
+מים צריכים להיות זמינים תמיד. דאגו למי שתייה טריים ואל תציבו את קערת השתייה בשמש כדי שלא תעלה ירוקת.
+
+טיול: על כלב לצאת לטייל לפחות 3 פעמים ביום. טיילו עם הכלב עם רצועה! לאחר שהכלב מתרגל וחוזר כשקוראים לו, אפשר לשחרר אותו במקומות בטוחים ללא מכוניות, כגון גינות ייעודיות לכלבים, פארקים וחוף הים. שחרור הכלב לטייל לבד ללא השגחה אסור על פי חוק ומסוכן לכלב ולסביבה.
+
+גורים: אין להוציא או להפגיש עם כלבים אחרים עד לאחר 3 חיסוני המשושה. לאחר מכן, חשוב שיכירו את העולם החיצון, אנשים, ילדים וכו' ויפגשו כלבים אחרים כדי שידעו להתנהג בחברת כלבים ולא יגדלו פחדנים / תוקפנים.
+
+שבב: החוק מחייב לעדכן את שבב הזיהוי של הכלב ברשות המקומית שלך.
+
+העמותה רשאית לקבל חזרה את הכלב במידה והוא לא מטופל כראוי.
+
+אין להעביר את הכלב לצד שלישי. אם ימצא בע"ח לא מתאים עבורכם, הודיעו לעמותה בטל' 054-4497795 או 052-4887288 ובתיאום טלפוני נקבל חזרה את הכלב או נפעל יחד למציאת בית חדש, לפי הנסיבות.
+
+אנחנו לרשותכם בכל שאלה או בעיה!
+
+מזל טוב!
+
+"הרצליה אוהבת חיות"]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>146</wp:post_id>
+		<wp:post_date>2015-10-18 17:24:21</wp:post_date>
+		<wp:post_date_gmt>2015-10-18 15:24:21</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>info</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[templates/page-full.php]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4fcff1a4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>box_theme</wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_box_theme</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4f0911a6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>link</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_link</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8cea22a961]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>link_text</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_link_text</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8c3a22a209]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://local.wordpress.dev/148/</link>
+		<pubDate>Sun, 18 Oct 2015 15:24:32 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://local.wordpress.dev/?p=148</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>148</wp:post_id>
+		<wp:post_date>2015-10-18 17:24:32</wp:post_date>
+		<wp:post_date_gmt>2015-10-18 15:24:32</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>148</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="%d7%aa%d7%a4%d7%a8%d7%99%d7%98-%d7%a2%d7%9c%d7%99%d7%95%d7%9f"><![CDATA[תפריט עליון]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[146]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>התעניינות באימוץ</title>
+		<link>http://local.wordpress.dev/?post_type=wpcf7_contact_form&#038;p=35</link>
+		<pubDate>Sat, 15 Aug 2015 14:38:25 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://local.wordpress.dev/?post_type=wpcf7_contact_form&#038;p=35</guid>
+		<description></description>
+		<content:encoded><![CDATA[[hidden your-subject "post_title"]
+
+<p>שם מלא<br />
+    [text* your-name]</p>
+
+<p>אימייל<br />
+    [email your-email]</p>
+
+<p>יישוב<br />
+    [text* city] </p>
+
+<p>טלפון<br />
+    [tel* tel]</p>
+
+<p>הערות<br />
+    [textarea your-message]</p>
+
+<p>[submit "שלח"]</p>
+התעניינות באימוץ: [your-subject]
+[your-name] <wordpress@local.wordpress.dev>
+מאת: [your-name]
+יישוב: [city]
+טלפון: [tel]
+
+חיית מחמד: [your-subject]
+
+תוכן ההודעה:
+[your-message]
+
+--
+אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)
+sagiem@gmail.com
+Reply-To: [your-email]
+
+
+
+
+[your-subject]
+הרצליה אוהבת חיות <wordpress@local.wordpress.dev>
+תוכן ההודעה:
+[your-message]
+
+--
+אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)
+[your-email]
+Reply-To: admin@local.dev
+
+
+
+ההודעה שלך נשלחה בהצלחה. תודה.
+שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.
+אירעו שגיאות אימות. נא לאשר את השדות ולנסות שוב.
+שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.
+נא לאשר את התנאים כדי להמשיך.
+נא למלא את כל שדות החובה.
+הקלט הזה ארוך מדי
+הקלט הזה קצר מדי
+הקוד שהזנת שגוי.
+נראה שפורמט המספר שגוי.
+מספר זה קטן מדי.
+מספר זה גדול מדי.
+כתובת הדואר האלקטרוני אינה תקינה.
+נראה שכתובת ה URL אינה תקפה.
+נראה שמספר הטלפון איננו תקף.
+התשובה אינה נכונה.
+נראה שפורמט התאריך שגוי.
+תאריך זה מוקדם מדי.
+תאריך זה מאוחר מדי.
+טעינת הקובץ נכשלה.
+סוג קובץ זה אינו מורשה
+הקובץ הזה גדול מדי.
+נכשלה טעינת הקובץ. אירעה שגיאה.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>35</wp:post_id>
+		<wp:post_date>2015-08-15 16:38:25</wp:post_date>
+		<wp:post_date_gmt>2015-08-15 14:38:25</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>%d7%98%d7%95%d7%a4%d7%a1-%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%a7%d7%a9%d7%a8-1</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>wpcf7_contact_form</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_form</wp:meta_key>
+			<wp:meta_value><![CDATA[[hidden your-subject "post_title"]
+
+<p>שם מלא<br />
+    [text* your-name]</p>
+
+<p>אימייל<br />
+    [email your-email]</p>
+
+<p>יישוב<br />
+    [text* city] </p>
+
+<p>טלפון<br />
+    [tel* tel]</p>
+
+<p>הערות<br />
+    [textarea your-message]</p>
+
+<p>[submit "שלח"]</p>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_mail</wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:47:"התעניינות באימוץ: [your-subject]";s:6:"sender";s:43:"[your-name] <wordpress@local.wordpress.dev>";s:4:"body";s:255:"מאת: [your-name]
+יישוב: [city]
+טלפון: [tel]
+
+חיית מחמד: [your-subject]
+
+תוכן ההודעה:
+[your-message]
+
+--
+אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)";s:9:"recipient";s:16:"sagiem@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_mail_2</wp:meta_key>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:64:"הרצליה אוהבת חיות <wordpress@local.wordpress.dev>";s:4:"body";s:162:"תוכן ההודעה:
+[your-message]
+
+--
+אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:25:"Reply-To: admin@local.dev";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_messages</wp:meta_key>
+			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:54:"ההודעה שלך נשלחה בהצלחה. תודה.";s:12:"mail_sent_ng";s:122:"שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.";s:16:"validation_error";s:86:"אירעו שגיאות אימות. נא לאשר את השדות ולנסות שוב.";s:4:"spam";s:122:"שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.";s:12:"accept_terms";s:52:"נא לאשר את התנאים כדי להמשיך.";s:16:"invalid_required";s:44:"נא למלא את כל שדות החובה.";s:16:"invalid_too_long";s:31:"הקלט הזה ארוך מדי";s:17:"invalid_too_short";s:29:"הקלט הזה קצר מדי";s:17:"captcha_not_match";s:29:"הקוד שהזנת שגוי.";s:14:"invalid_number";s:42:"נראה שפורמט המספר שגוי.";s:16:"number_too_small";s:28:"מספר זה קטן מדי.";s:16:"number_too_large";s:30:"מספר זה גדול מדי.";s:13:"invalid_email";s:61:"כתובת הדואר האלקטרוני אינה תקינה.";s:11:"invalid_url";s:47:"נראה שכתובת ה URL אינה תקפה.";s:11:"invalid_tel";s:51:"נראה שמספר הטלפון איננו תקף.";s:23:"quiz_answer_not_correct";s:33:"התשובה אינה נכונה.";s:12:"invalid_date";s:44:"נראה שפורמט התאריך שגוי.";s:14:"date_too_early";s:34:"תאריך זה מוקדם מדי.";s:13:"date_too_late";s:34:"תאריך זה מאוחר מדי.";s:13:"upload_failed";s:33:"טעינת הקובץ נכשלה.";s:24:"upload_file_type_invalid";s:40:"סוג קובץ זה אינו מורשה";s:21:"upload_file_too_large";s:34:"הקובץ הזה גדול מדי.";s:23:"upload_failed_php_error";s:56:"נכשלה טעינת הקובץ. אירעה שגיאה.";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_additional_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_locale</wp:meta_key>
+			<wp:meta_value><![CDATA[he_IL]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_form</wp:meta_key>
+			<wp:meta_value><![CDATA[[hidden your-subject "post_title"]
+
+<p>שם מלא<br />
+    [text* your-name]</p>
+
+<p>אימייל<br />
+    [email your-email]</p>
+
+<p>יישוב<br />
+    [text* city] </p>
+
+<p>טלפון<br />
+    [tel* tel]</p>
+
+<p>הערות<br />
+    [textarea your-message]</p>
+
+<p>[submit "שלח"]</p>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_mail</wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:47:"התעניינות באימוץ: [your-subject]";s:6:"sender";s:43:"[your-name] <wordpress@local.wordpress.dev>";s:4:"body";s:255:"מאת: [your-name]
+יישוב: [city]
+טלפון: [tel]
+
+חיית מחמד: [your-subject]
+
+תוכן ההודעה:
+[your-message]
+
+--
+אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)";s:9:"recipient";s:16:"sagiem@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_mail_2</wp:meta_key>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:64:"הרצליה אוהבת חיות <wordpress@local.wordpress.dev>";s:4:"body";s:162:"תוכן ההודעה:
+[your-message]
+
+--
+אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:25:"Reply-To: admin@local.dev";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_messages</wp:meta_key>
+			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:54:"ההודעה שלך נשלחה בהצלחה. תודה.";s:12:"mail_sent_ng";s:122:"שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.";s:16:"validation_error";s:86:"אירעו שגיאות אימות. נא לאשר את השדות ולנסות שוב.";s:4:"spam";s:122:"שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.";s:12:"accept_terms";s:52:"נא לאשר את התנאים כדי להמשיך.";s:16:"invalid_required";s:44:"נא למלא את כל שדות החובה.";s:16:"invalid_too_long";s:31:"הקלט הזה ארוך מדי";s:17:"invalid_too_short";s:29:"הקלט הזה קצר מדי";s:17:"captcha_not_match";s:29:"הקוד שהזנת שגוי.";s:14:"invalid_number";s:42:"נראה שפורמט המספר שגוי.";s:16:"number_too_small";s:28:"מספר זה קטן מדי.";s:16:"number_too_large";s:30:"מספר זה גדול מדי.";s:13:"invalid_email";s:61:"כתובת הדואר האלקטרוני אינה תקינה.";s:11:"invalid_url";s:47:"נראה שכתובת ה URL אינה תקפה.";s:11:"invalid_tel";s:51:"נראה שמספר הטלפון איננו תקף.";s:23:"quiz_answer_not_correct";s:33:"התשובה אינה נכונה.";s:12:"invalid_date";s:44:"נראה שפורמט התאריך שגוי.";s:14:"date_too_early";s:34:"תאריך זה מוקדם מדי.";s:13:"date_too_late";s:34:"תאריך זה מאוחר מדי.";s:13:"upload_failed";s:33:"טעינת הקובץ נכשלה.";s:24:"upload_file_type_invalid";s:40:"סוג קובץ זה אינו מורשה";s:21:"upload_file_too_large";s:34:"הקובץ הזה גדול מדי.";s:23:"upload_failed_php_error";s:56:"נכשלה טעינת הקובץ. אירעה שגיאה.";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_additional_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_locale</wp:meta_key>
+			<wp:meta_value><![CDATA[he_IL]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>יום אימוץ 15.6.2017</title>
+		<link>http://local.wordpress.dev/%d7%99%d7%95%d7%9d-%d7%90%d7%99%d7%9e%d7%95%d7%a5-15-6-21/</link>
+		<pubDate>Sat, 22 Aug 2015 19:10:29 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://local.wordpress.dev/?p=81</guid>
+		<description></description>
+		<content:encoded><![CDATA[ביום שישי הקרוב נחכה לכם בתל אביב עם הרבה מהממים שמחכים לבתים אוהבים!
+
+<strong>שנקין 39, לינקר חנות חיות, 10:30-14:00</strong>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>81</wp:post_id>
+		<wp:post_date>2015-08-22 21:10:29</wp:post_date>
+		<wp:post_date_gmt>2015-08-22 19:10:29</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>%d7%99%d7%95%d7%9d-%d7%90%d7%99%d7%9e%d7%95%d7%a5-15-6-21</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_format" nicename="post-format-link"><![CDATA[קישור]]></category>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4fcff1a4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>url</wp:meta_key>
+			<wp:meta_value><![CDATA[http://facebook.com/event1309]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_url</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8cea22a961]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>link</wp:meta_key>
+			<wp:meta_value><![CDATA[http://facebook.com/event1309]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_link</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8cea22a961]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>link_text</wp:meta_key>
+			<wp:meta_value><![CDATA[לדף האירוע בפייסבוק]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_link_text</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8c3a22a209]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>box_theme</wp:meta_key>
+			<wp:meta_value><![CDATA[blue]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_box_theme</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4f0911a6]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>התעניינות כללית</title>
+		<link>http://local.wordpress.dev/?post_type=wpcf7_contact_form&#038;p=89</link>
+		<pubDate>Sat, 22 Aug 2015 19:33:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://local.wordpress.dev/?post_type=wpcf7_contact_form&#038;p=89</guid>
+		<description></description>
+		<content:encoded><![CDATA[[text* your-name placeholder "שם מלא"]
+
+[tel* your-tel placeholder "מספר טלפון"]
+
+[submit class:button class:success "שלח"]
+[your-subject]
+[your-name] <wordpress@local.wordpress.dev>
+מאת: [your-name] <[your-email]>
+נושא: [your-subject]
+
+תוכן ההודעה:
+[your-message]
+
+--
+אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)
+admin@local.dev
+Reply-To: [your-email]
+
+
+
+
+[your-subject]
+הרצליה אוהבת חיות <wordpress@local.wordpress.dev>
+תוכן ההודעה:
+[your-message]
+
+--
+אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)
+[your-email]
+Reply-To: admin@local.dev
+
+
+
+ההודעה שלך נשלחה בהצלחה. תודה.
+שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.
+אירעו שגיאות אימות. נא לאשר את השדות ולנסות שוב.
+שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.
+נא לאשר את התנאים כדי להמשיך.
+נא למלא את כל שדות החובה.
+הקלט הזה ארוך מדי
+הקלט הזה קצר מדי
+הקוד שהזנת שגוי.
+נראה שפורמט המספר שגוי.
+מספר זה קטן מדי.
+מספר זה גדול מדי.
+כתובת הדואר האלקטרוני אינה תקינה.
+נראה שכתובת ה URL אינה תקפה.
+נראה שמספר הטלפון איננו תקף.
+התשובה אינה נכונה.
+נראה שפורמט התאריך שגוי.
+תאריך זה מוקדם מדי.
+תאריך זה מאוחר מדי.
+טעינת הקובץ נכשלה.
+סוג קובץ זה אינו מורשה
+הקובץ הזה גדול מדי.
+נכשלה טעינת הקובץ. אירעה שגיאה.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>89</wp:post_id>
+		<wp:post_date>2015-08-22 21:33:27</wp:post_date>
+		<wp:post_date_gmt>2015-08-22 19:33:27</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>%d7%94%d7%aa%d7%a2%d7%a0%d7%99%d7%99%d7%a0%d7%95%d7%aa-%d7%9b%d7%9c%d7%9c%d7%99%d7%aa</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>wpcf7_contact_form</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_form</wp:meta_key>
+			<wp:meta_value><![CDATA[[text* your-name placeholder "שם מלא"]
+
+[tel* your-tel placeholder "מספר טלפון"]
+
+[submit class:button class:success "שלח"]]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_mail</wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:43:"[your-name] <wordpress@local.wordpress.dev>";s:4:"body";s:223:"מאת: [your-name] <[your-email]>
+נושא: [your-subject]
+
+תוכן ההודעה:
+[your-message]
+
+--
+אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)";s:9:"recipient";s:15:"admin@local.dev";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_mail_2</wp:meta_key>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:64:"הרצליה אוהבת חיות <wordpress@local.wordpress.dev>";s:4:"body";s:162:"תוכן ההודעה:
+[your-message]
+
+--
+אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:25:"Reply-To: admin@local.dev";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_messages</wp:meta_key>
+			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:54:"ההודעה שלך נשלחה בהצלחה. תודה.";s:12:"mail_sent_ng";s:122:"שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.";s:16:"validation_error";s:86:"אירעו שגיאות אימות. נא לאשר את השדות ולנסות שוב.";s:4:"spam";s:122:"שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.";s:12:"accept_terms";s:52:"נא לאשר את התנאים כדי להמשיך.";s:16:"invalid_required";s:44:"נא למלא את כל שדות החובה.";s:16:"invalid_too_long";s:31:"הקלט הזה ארוך מדי";s:17:"invalid_too_short";s:29:"הקלט הזה קצר מדי";s:17:"captcha_not_match";s:29:"הקוד שהזנת שגוי.";s:14:"invalid_number";s:42:"נראה שפורמט המספר שגוי.";s:16:"number_too_small";s:28:"מספר זה קטן מדי.";s:16:"number_too_large";s:30:"מספר זה גדול מדי.";s:13:"invalid_email";s:61:"כתובת הדואר האלקטרוני אינה תקינה.";s:11:"invalid_url";s:47:"נראה שכתובת ה URL אינה תקפה.";s:11:"invalid_tel";s:51:"נראה שמספר הטלפון איננו תקף.";s:23:"quiz_answer_not_correct";s:33:"התשובה אינה נכונה.";s:12:"invalid_date";s:44:"נראה שפורמט התאריך שגוי.";s:14:"date_too_early";s:34:"תאריך זה מוקדם מדי.";s:13:"date_too_late";s:34:"תאריך זה מאוחר מדי.";s:13:"upload_failed";s:33:"טעינת הקובץ נכשלה.";s:24:"upload_file_type_invalid";s:40:"סוג קובץ זה אינו מורשה";s:21:"upload_file_too_large";s:34:"הקובץ הזה גדול מדי.";s:23:"upload_failed_php_error";s:56:"נכשלה טעינת הקובץ. אירעה שגיאה.";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_additional_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_locale</wp:meta_key>
+			<wp:meta_value><![CDATA[he_IL]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1814,7 +2722,7 @@ soo@goo.com
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -2244,519 +3152,6 @@ soo@goo.com
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>בואו להתנדב</title>
-		<link>http://local.wordpress.dev/%d7%91%d7%95%d7%90%d7%95-%d7%9c%d7%94%d7%aa%d7%a0%d7%93%d7%91/</link>
-		<pubDate>Sun, 18 Oct 2015 13:11:05 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://local.wordpress.dev/?page_id=119</guid>
-		<description></description>
-		<content:encoded><![CDATA[אם אתם אוהבים בעלי חיים, נהנים מטיול, משחקים וליקוקים, גרגור חתול הוא הצליל האהוב עליכם וכל כלב או חתול שנמסר לבית חם עושה לכם טוב בלב - מקומכם איתנו]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>119</wp:post_id>
-		<wp:post_date>2015-10-18 15:11:05</wp:post_date>
-		<wp:post_date_gmt>2015-10-18 13:11:05</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>%d7%91%d7%95%d7%90%d7%95-%d7%9c%d7%94%d7%aa%d7%a0%d7%93%d7%91</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[7]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8b4fcff1a4]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>box_theme</wp:meta_key>
-			<wp:meta_value><![CDATA[orange]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_box_theme</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8b4f0911a6]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>link</wp:meta_key>
-			<wp:meta_value><![CDATA[http://local.wordpress.dev/%D7%94%D7%AA%D7%A0%D7%93%D7%91%D7%95%D7%AA/]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_link</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8cea22a961]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>link_text</wp:meta_key>
-			<wp:meta_value><![CDATA[עוד פרטים]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_link_text</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8c3a22a209]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>תירמו לעמותה</title>
-		<link>http://local.wordpress.dev/%d7%aa%d7%99%d7%a8%d7%9e%d7%95-%d7%9c%d7%a2%d7%9e%d7%95%d7%aa%d7%94/</link>
-		<pubDate>Sun, 18 Oct 2015 13:55:20 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://local.wordpress.dev/?page_id=136</guid>
-		<description></description>
-		<content:encoded><![CDATA[פעילות העמותה מתבססת על תרומות. אין בעמותה מקבלי שכר וכל תרומה מממנת ישירות הצלחת חיים של כלבים וחתולים]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>136</wp:post_id>
-		<wp:post_date>2015-10-18 15:55:20</wp:post_date>
-		<wp:post_date_gmt>2015-10-18 13:55:20</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>%d7%aa%d7%99%d7%a8%d7%9e%d7%95-%d7%9c%d7%a2%d7%9e%d7%95%d7%aa%d7%94</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[16]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8b4fcff1a4]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>box_theme</wp:meta_key>
-			<wp:meta_value><![CDATA[green]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_box_theme</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8b4f0911a6]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>link</wp:meta_key>
-			<wp:meta_value><![CDATA[http://local.wordpress.dev/%D7%AA%D7%A8%D7%95%D7%9E%D7%95%D7%AA/]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_link</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8cea22a961]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>link_text</wp:meta_key>
-			<wp:meta_value><![CDATA[עוד פרטים]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_link_text</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8c3a22a209]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>התעניינות באימוץ</title>
-		<link>http://local.wordpress.dev/?post_type=wpcf7_contact_form&#038;p=35</link>
-		<pubDate>Sat, 15 Aug 2015 14:38:25 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://local.wordpress.dev/?post_type=wpcf7_contact_form&#038;p=35</guid>
-		<description></description>
-		<content:encoded><![CDATA[[hidden your-subject "post_title"]
-
-<p>שם מלא<br />
-    [text* your-name]</p>
-
-<p>אימייל<br />
-    [email your-email]</p>
-
-<p>יישוב<br />
-    [text* city] </p>
-
-<p>טלפון<br />
-    [tel* tel]</p>
-
-<p>הערות<br />
-    [textarea your-message]</p>
-
-<p>[submit "שלח"]</p>
-התעניינות באימוץ: [your-subject]
-[your-name] <wordpress@local.wordpress.dev>
-מאת: [your-name]
-יישוב: [city]
-טלפון: [tel]
-
-חיית מחמד: [your-subject]
-
-תוכן ההודעה:
-[your-message]
-
---
-אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)
-sagiem@gmail.com
-Reply-To: [your-email]
-
-
-
-
-[your-subject]
-הרצליה אוהבת חיות <wordpress@local.wordpress.dev>
-תוכן ההודעה:
-[your-message]
-
---
-אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)
-[your-email]
-Reply-To: admin@local.dev
-
-
-
-ההודעה שלך נשלחה בהצלחה. תודה.
-שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.
-אירעו שגיאות אימות. נא לאשר את השדות ולנסות שוב.
-שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.
-נא לאשר את התנאים כדי להמשיך.
-נא למלא את כל שדות החובה.
-הקלט הזה ארוך מדי
-הקלט הזה קצר מדי
-הקוד שהזנת שגוי.
-נראה שפורמט המספר שגוי.
-מספר זה קטן מדי.
-מספר זה גדול מדי.
-כתובת הדואר האלקטרוני אינה תקינה.
-נראה שכתובת ה URL אינה תקפה.
-נראה שמספר הטלפון איננו תקף.
-התשובה אינה נכונה.
-נראה שפורמט התאריך שגוי.
-תאריך זה מוקדם מדי.
-תאריך זה מאוחר מדי.
-טעינת הקובץ נכשלה.
-סוג קובץ זה אינו מורשה
-הקובץ הזה גדול מדי.
-נכשלה טעינת הקובץ. אירעה שגיאה.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>35</wp:post_id>
-		<wp:post_date>2015-08-15 16:38:25</wp:post_date>
-		<wp:post_date_gmt>2015-08-15 14:38:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>%d7%98%d7%95%d7%a4%d7%a1-%d7%99%d7%a6%d7%99%d7%a8%d7%aa-%d7%a7%d7%a9%d7%a8-1</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>wpcf7_contact_form</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_form</wp:meta_key>
-			<wp:meta_value><![CDATA[[hidden your-subject "post_title"]
-
-<p>שם מלא<br />
-    [text* your-name]</p>
-
-<p>אימייל<br />
-    [email your-email]</p>
-
-<p>יישוב<br />
-    [text* city] </p>
-
-<p>טלפון<br />
-    [tel* tel]</p>
-
-<p>הערות<br />
-    [textarea your-message]</p>
-
-<p>[submit "שלח"]</p>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_mail</wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:47:"התעניינות באימוץ: [your-subject]";s:6:"sender";s:43:"[your-name] <wordpress@local.wordpress.dev>";s:4:"body";s:255:"מאת: [your-name]
-יישוב: [city]
-טלפון: [tel]
-
-חיית מחמד: [your-subject]
-
-תוכן ההודעה:
-[your-message]
-
---
-אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)";s:9:"recipient";s:16:"sagiem@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_mail_2</wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:64:"הרצליה אוהבת חיות <wordpress@local.wordpress.dev>";s:4:"body";s:162:"תוכן ההודעה:
-[your-message]
-
---
-אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:25:"Reply-To: admin@local.dev";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_messages</wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:54:"ההודעה שלך נשלחה בהצלחה. תודה.";s:12:"mail_sent_ng";s:122:"שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.";s:16:"validation_error";s:86:"אירעו שגיאות אימות. נא לאשר את השדות ולנסות שוב.";s:4:"spam";s:122:"שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.";s:12:"accept_terms";s:52:"נא לאשר את התנאים כדי להמשיך.";s:16:"invalid_required";s:44:"נא למלא את כל שדות החובה.";s:16:"invalid_too_long";s:31:"הקלט הזה ארוך מדי";s:17:"invalid_too_short";s:29:"הקלט הזה קצר מדי";s:17:"captcha_not_match";s:29:"הקוד שהזנת שגוי.";s:14:"invalid_number";s:42:"נראה שפורמט המספר שגוי.";s:16:"number_too_small";s:28:"מספר זה קטן מדי.";s:16:"number_too_large";s:30:"מספר זה גדול מדי.";s:13:"invalid_email";s:61:"כתובת הדואר האלקטרוני אינה תקינה.";s:11:"invalid_url";s:47:"נראה שכתובת ה URL אינה תקפה.";s:11:"invalid_tel";s:51:"נראה שמספר הטלפון איננו תקף.";s:23:"quiz_answer_not_correct";s:33:"התשובה אינה נכונה.";s:12:"invalid_date";s:44:"נראה שפורמט התאריך שגוי.";s:14:"date_too_early";s:34:"תאריך זה מוקדם מדי.";s:13:"date_too_late";s:34:"תאריך זה מאוחר מדי.";s:13:"upload_failed";s:33:"טעינת הקובץ נכשלה.";s:24:"upload_file_type_invalid";s:40:"סוג קובץ זה אינו מורשה";s:21:"upload_file_too_large";s:34:"הקובץ הזה גדול מדי.";s:23:"upload_failed_php_error";s:56:"נכשלה טעינת הקובץ. אירעה שגיאה.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_additional_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_locale</wp:meta_key>
-			<wp:meta_value><![CDATA[he_IL]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_form</wp:meta_key>
-			<wp:meta_value><![CDATA[[hidden your-subject "post_title"]
-
-<p>שם מלא<br />
-    [text* your-name]</p>
-
-<p>אימייל<br />
-    [email your-email]</p>
-
-<p>יישוב<br />
-    [text* city] </p>
-
-<p>טלפון<br />
-    [tel* tel]</p>
-
-<p>הערות<br />
-    [textarea your-message]</p>
-
-<p>[submit "שלח"]</p>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_mail</wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:47:"התעניינות באימוץ: [your-subject]";s:6:"sender";s:43:"[your-name] <wordpress@local.wordpress.dev>";s:4:"body";s:255:"מאת: [your-name]
-יישוב: [city]
-טלפון: [tel]
-
-חיית מחמד: [your-subject]
-
-תוכן ההודעה:
-[your-message]
-
---
-אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)";s:9:"recipient";s:16:"sagiem@gmail.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_mail_2</wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:64:"הרצליה אוהבת חיות <wordpress@local.wordpress.dev>";s:4:"body";s:162:"תוכן ההודעה:
-[your-message]
-
---
-אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:25:"Reply-To: admin@local.dev";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_messages</wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:54:"ההודעה שלך נשלחה בהצלחה. תודה.";s:12:"mail_sent_ng";s:122:"שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.";s:16:"validation_error";s:86:"אירעו שגיאות אימות. נא לאשר את השדות ולנסות שוב.";s:4:"spam";s:122:"שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.";s:12:"accept_terms";s:52:"נא לאשר את התנאים כדי להמשיך.";s:16:"invalid_required";s:44:"נא למלא את כל שדות החובה.";s:16:"invalid_too_long";s:31:"הקלט הזה ארוך מדי";s:17:"invalid_too_short";s:29:"הקלט הזה קצר מדי";s:17:"captcha_not_match";s:29:"הקוד שהזנת שגוי.";s:14:"invalid_number";s:42:"נראה שפורמט המספר שגוי.";s:16:"number_too_small";s:28:"מספר זה קטן מדי.";s:16:"number_too_large";s:30:"מספר זה גדול מדי.";s:13:"invalid_email";s:61:"כתובת הדואר האלקטרוני אינה תקינה.";s:11:"invalid_url";s:47:"נראה שכתובת ה URL אינה תקפה.";s:11:"invalid_tel";s:51:"נראה שמספר הטלפון איננו תקף.";s:23:"quiz_answer_not_correct";s:33:"התשובה אינה נכונה.";s:12:"invalid_date";s:44:"נראה שפורמט התאריך שגוי.";s:14:"date_too_early";s:34:"תאריך זה מוקדם מדי.";s:13:"date_too_late";s:34:"תאריך זה מאוחר מדי.";s:13:"upload_failed";s:33:"טעינת הקובץ נכשלה.";s:24:"upload_file_type_invalid";s:40:"סוג קובץ זה אינו מורשה";s:21:"upload_file_too_large";s:34:"הקובץ הזה גדול מדי.";s:23:"upload_failed_php_error";s:56:"נכשלה טעינת הקובץ. אירעה שגיאה.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_additional_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_locale</wp:meta_key>
-			<wp:meta_value><![CDATA[he_IL]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>יום אימוץ 15.6.2017</title>
-		<link>http://local.wordpress.dev/%d7%99%d7%95%d7%9d-%d7%90%d7%99%d7%9e%d7%95%d7%a5-15-6-21/</link>
-		<pubDate>Sat, 22 Aug 2015 19:10:29 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://local.wordpress.dev/?p=81</guid>
-		<description></description>
-		<content:encoded><![CDATA[ביום שישי הקרוב נחכה לכם בתל אביב עם הרבה מהממים שמחכים לבתים אוהבים!
-
-<strong>שנקין 39, לינקר חנות חיות, 10:30-14:00</strong>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>81</wp:post_id>
-		<wp:post_date>2015-08-22 21:10:29</wp:post_date>
-		<wp:post_date_gmt>2015-08-22 19:10:29</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>%d7%99%d7%95%d7%9d-%d7%90%d7%99%d7%9e%d7%95%d7%a5-15-6-21</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="post_format" nicename="post-format-link"><![CDATA[קישור]]></category>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8b4fcff1a4]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://facebook.com/event1309]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_url</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8cea22a961]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>link</wp:meta_key>
-			<wp:meta_value><![CDATA[http://facebook.com/event1309]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_link</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8cea22a961]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>link_text</wp:meta_key>
-			<wp:meta_value><![CDATA[לדף האירוע בפייסבוק]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_link_text</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8c3a22a209]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>box_theme</wp:meta_key>
-			<wp:meta_value><![CDATA[blue]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_box_theme</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8b4f0911a6]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>התעניינות כללית</title>
-		<link>http://local.wordpress.dev/?post_type=wpcf7_contact_form&#038;p=89</link>
-		<pubDate>Sat, 22 Aug 2015 19:33:27 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://local.wordpress.dev/?post_type=wpcf7_contact_form&#038;p=89</guid>
-		<description></description>
-		<content:encoded><![CDATA[[text* your-name placeholder "שם מלא"]
-
-[tel* your-tel placeholder "מספר טלפון"]
-
-[submit class:button class:success "שלח"]
-[your-subject]
-[your-name] <wordpress@local.wordpress.dev>
-מאת: [your-name] <[your-email]>
-נושא: [your-subject]
-
-תוכן ההודעה:
-[your-message]
-
---
-אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)
-admin@local.dev
-Reply-To: [your-email]
-
-
-
-
-[your-subject]
-הרצליה אוהבת חיות <wordpress@local.wordpress.dev>
-תוכן ההודעה:
-[your-message]
-
---
-אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)
-[your-email]
-Reply-To: admin@local.dev
-
-
-
-ההודעה שלך נשלחה בהצלחה. תודה.
-שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.
-אירעו שגיאות אימות. נא לאשר את השדות ולנסות שוב.
-שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.
-נא לאשר את התנאים כדי להמשיך.
-נא למלא את כל שדות החובה.
-הקלט הזה ארוך מדי
-הקלט הזה קצר מדי
-הקוד שהזנת שגוי.
-נראה שפורמט המספר שגוי.
-מספר זה קטן מדי.
-מספר זה גדול מדי.
-כתובת הדואר האלקטרוני אינה תקינה.
-נראה שכתובת ה URL אינה תקפה.
-נראה שמספר הטלפון איננו תקף.
-התשובה אינה נכונה.
-נראה שפורמט התאריך שגוי.
-תאריך זה מוקדם מדי.
-תאריך זה מאוחר מדי.
-טעינת הקובץ נכשלה.
-סוג קובץ זה אינו מורשה
-הקובץ הזה גדול מדי.
-נכשלה טעינת הקובץ. אירעה שגיאה.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>89</wp:post_id>
-		<wp:post_date>2015-08-22 21:33:27</wp:post_date>
-		<wp:post_date_gmt>2015-08-22 19:33:27</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>%d7%94%d7%aa%d7%a2%d7%a0%d7%99%d7%99%d7%a0%d7%95%d7%aa-%d7%9b%d7%9c%d7%9c%d7%99%d7%aa</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>wpcf7_contact_form</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_form</wp:meta_key>
-			<wp:meta_value><![CDATA[[text* your-name placeholder "שם מלא"]
-
-[tel* your-tel placeholder "מספר טלפון"]
-
-[submit class:button class:success "שלח"]]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_mail</wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:43:"[your-name] <wordpress@local.wordpress.dev>";s:4:"body";s:223:"מאת: [your-name] <[your-email]>
-נושא: [your-subject]
-
-תוכן ההודעה:
-[your-message]
-
---
-אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)";s:9:"recipient";s:15:"admin@local.dev";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_mail_2</wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:64:"הרצליה אוהבת חיות <wordpress@local.wordpress.dev>";s:4:"body";s:162:"תוכן ההודעה:
-[your-message]
-
---
-אימייל זה נשלח מטופס יצירת קשר ב הרצליה אוהבת חיות (http://local.wordpress.dev)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:25:"Reply-To: admin@local.dev";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_messages</wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:54:"ההודעה שלך נשלחה בהצלחה. תודה.";s:12:"mail_sent_ng";s:122:"שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.";s:16:"validation_error";s:86:"אירעו שגיאות אימות. נא לאשר את השדות ולנסות שוב.";s:4:"spam";s:122:"שליחת ההודעה נכשלה. אנא נסה מאוחר יותר או פנה למנהל האתר בשיטה אחרת.";s:12:"accept_terms";s:52:"נא לאשר את התנאים כדי להמשיך.";s:16:"invalid_required";s:44:"נא למלא את כל שדות החובה.";s:16:"invalid_too_long";s:31:"הקלט הזה ארוך מדי";s:17:"invalid_too_short";s:29:"הקלט הזה קצר מדי";s:17:"captcha_not_match";s:29:"הקוד שהזנת שגוי.";s:14:"invalid_number";s:42:"נראה שפורמט המספר שגוי.";s:16:"number_too_small";s:28:"מספר זה קטן מדי.";s:16:"number_too_large";s:30:"מספר זה גדול מדי.";s:13:"invalid_email";s:61:"כתובת הדואר האלקטרוני אינה תקינה.";s:11:"invalid_url";s:47:"נראה שכתובת ה URL אינה תקפה.";s:11:"invalid_tel";s:51:"נראה שמספר הטלפון איננו תקף.";s:23:"quiz_answer_not_correct";s:33:"התשובה אינה נכונה.";s:12:"invalid_date";s:44:"נראה שפורמט התאריך שגוי.";s:14:"date_too_early";s:34:"תאריך זה מוקדם מדי.";s:13:"date_too_late";s:34:"תאריך זה מאוחר מדי.";s:13:"upload_failed";s:33:"טעינת הקובץ נכשלה.";s:24:"upload_file_type_invalid";s:40:"סוג קובץ זה אינו מורשה";s:21:"upload_file_too_large";s:34:"הקובץ הזה גדול מדי.";s:23:"upload_failed_php_error";s:56:"נכשלה טעינת הקובץ. אירעה שגיאה.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_additional_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_locale</wp:meta_key>
-			<wp:meta_value><![CDATA[he_IL]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>בוני</title>
 		<link>http://local.wordpress.dev/pet/%d7%91%d7%95%d7%a0%d7%99/</link>
 		<pubDate>Sun, 18 Oct 2015 13:13:13 +0000</pubDate>
@@ -2787,7 +3182,7 @@ Reply-To: admin@local.dev
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[9]]></wp:meta_value>
+			<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -3157,7 +3552,7 @@ Reply-To: admin@local.dev
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[13]]></wp:meta_value>
+			<wp:meta_value><![CDATA[15]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -3333,7 +3728,7 @@ Reply-To: admin@local.dev
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[15]]></wp:meta_value>
+			<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -3561,7 +3956,7 @@ Reply-To: admin@local.dev
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[18]]></wp:meta_value>
+			<wp:meta_value><![CDATA[16]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
