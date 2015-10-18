@@ -4,5 +4,7 @@ if( $pictures ): ?>
   <img src="<?= $pictures[0]['url'] ?>" alt="<?php echo $pictures[0]['alt']; ?>" />
 <?php endif; ?>
 
-<h2><?php the_title(); ?></h2>
-<?php the_content(); ?>
+<div class="pet-details">
+  <h2><?php the_title(); ?></h2>
+  <?php the_content(); ?>
+</div>
