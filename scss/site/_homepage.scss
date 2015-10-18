@@ -4,10 +4,22 @@
   border-radius: 2px;
   box-shadow: 0 0 3px 1px rgba(0,0,0,0.3);
 
+  position: relative;
+
+  display: block;
+  height: 310px;
+
   h2 {
    font-family: 'Open Sans Condensed', sans-serif;
    font-size: 26px;
    font-weight: bold;
+   margin: 0;
+  }
+
+  .pet-picture {
+    height: 200px;
+    overflow-y: hidden;
+    img { width: 100%; }
   }
 
   .pet-details {
@@ -15,9 +27,23 @@
       bottom: 8px
     }
 
+    .pet-description {
+      height: 50px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
     p {
       margin: 0;
     }
+  }
+
+  .button {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    width: 290px;
+    margin: 0;
   }
 }
 
@@ -43,7 +69,6 @@
     background-color: lighten($button_color, 10%);
     padding: 8px 32px;
     display: inline-block;
-    width: 100%;
     font-weight: bold;
 
     &:hover, &:focus {
