@@ -13,4 +13,6 @@
       <?php the_content(); ?>
     </div>
   </div>
+
+  <span class="pet-link">לפרטים נוספים ולטופס התעניינות</span>
 </a>
