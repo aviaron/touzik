@@ -13,7 +13,7 @@ get_header(); ?>
       'meta_key' => 'homepage_index',
       'meta_value'     => '0',
       'meta_compare'   => '>',
-      'orderby' => 'meta_value',
+      'orderby' => 'meta_value_num',
       'order' => 'ASC'
     ));
 
