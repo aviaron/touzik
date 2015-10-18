@@ -12,7 +12,10 @@
     <nav class="top-bar" data-topbar role="navigation">
         <ul class="title-area">
             <li class="name">
-                <h1><a href="<?php echo home_url(); ?>"><?php bloginfo( 'name' ); ?></a></h1>
+                <h1><a href="<?php echo home_url(); ?>">
+                  <span><?php bloginfo( 'name' ); ?></span>
+                  <img src="<?= get_template_directory_uri() ?>/assets/img/hla-logo.png">
+                </a></h1>
             </li>
         </ul>
         <section class="top-bar-section">
