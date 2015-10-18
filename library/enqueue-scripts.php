@@ -15,7 +15,7 @@ if ( ! function_exists( 'foundationpress_scripts' ) ) :
 	// Enqueue the main Stylesheet.
 	wp_enqueue_style( 'main-stylesheet', get_template_directory_uri() . '/assets/stylesheets/foundation.css', array(), '2.6.1', 'all' );
 
-  wp_enqueue_style( 'alef-font', '//fonts.googleapis.com/earlyaccess/alefhebrew.css' );
+  wp_enqueue_style( 'google-fonts', '//fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Alef' );
 
 	// Deregister the jquery version bundled with WordPress.
 	wp_deregister_script( 'jquery' );
