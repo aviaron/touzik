@@ -181,7 +181,8 @@ acf_add_local_field_group(array (
         'white' => 'לבן',
         'blue' => 'כחול',
         'orange' => 'כתום',
-        'green' => 'ירוק'
+        'green' => 'ירוק',
+        'notebook' => 'מחברת'
       ),
       'default_value' => array ('white' => 'לבן'),
     ),
