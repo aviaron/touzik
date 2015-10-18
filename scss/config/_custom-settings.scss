@@ -35,6 +35,7 @@ $black         : #000000;
 $greyish-brown : #3D3D3D;
 $linen         : #FBF5E9;
 $hla-green     : #e6f2df;
+$hla-text      : #85a869;
 
 // We use these as default colors throughout
 $primary-color: #008CBA;
@@ -62,22 +63,21 @@ $large-breakpoint:  em-calc(1440);
 $xlarge-breakpoint: em-calc(1920);
 
 // Topbar
-$topbar-height: rem-calc(123);
+$topbar-height: rem-calc(30);
 $topbar-bg-color: $white;
 $topbar-title-font-size: rem-calc(30);
-$topbar-link-color: $body-font-color;
+$topbar-link-color: $hla-text;
 
 // Topbar links
-$topbar-link-color-hover: scale-color($topbar-link-color, $lightness: 14%);
-$topbar-link-color-active: $black;
-$topbar-link-color-active-hover: $black;
-$topbar-link-weight: $font-weight-normal;
 $topbar-link-font-size: rem-calc(13);
+$topbar-link-color-active: $topbar-link-color;
+$topbar-link-weight: $font-weight-bold;
+$topbar-link-color-hover: darken($topbar-link-color, 14%);
+$topbar-link-color-active-hover: $topbar-link-color-hover;
 $topbar-link-bg: $topbar-bg-color;
 $topbar-link-bg-hover: $topbar-bg-color;
-$topbar-link-bg-color-hover: red;
 $topbar-link-bg-active: $topbar-bg-color;
-$topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
+$topbar-link-bg-active-hover: $topbar-bg-color;
 
 // Direction
 $text-direction: rtl;
