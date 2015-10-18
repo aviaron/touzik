@@ -26,6 +26,9 @@ get_header(); ?>
         ?>
 
         <li <?php post_class() ?> id="post-<?php the_ID(); ?>">
+          <?php if( current_user_can('level_10') ) : ?>
+            <pre><?= get_field( 'homepage_index' ) ?></pre>
+          <?php endif; ?>
           <div class="homepage-box homepage-box-<?= get_field('box_theme') ?>">
             <?php get_template_part( 'parts/box', get_post_type( $post ) ); ?>
           </div>
