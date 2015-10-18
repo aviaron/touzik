@@ -1,7 +1,7 @@
 <?php
 $pictures = get_field('pictures');
 if( $pictures ): ?>
-  <div class="pet-picture">
+  <div class="box-picture">
     <img src="<?= $pictures[0]['url'] ?>" alt="<?php echo $pictures[0]['alt']; ?>" />
   </div>
 <?php endif; ?>

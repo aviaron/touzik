@@ -16,9 +16,11 @@
    margin: 0;
   }
 
-  .pet-picture {
-    height: 200px;
+  .box-picture {
+    height: 100px;
     overflow-y: hidden;
+    vertical-align: middle;
+
     img { width: 100%; }
   }
 
@@ -40,16 +42,49 @@
 
   .button {
     position: absolute;
-    bottom: 10px;
-    left: 10px;
-    width: 290px;
+    bottom: 20px;
+    left: 20px;
+    width: 270px;
     margin: 0;
+  }
+}
+
+.type-pet {
+  .box-picture {
+    background-color: #eee;
+    height: 200px;
+    line-height: 200px;
   }
 }
 
 .type-post, .type-page {
   .homepage-box {
     text-align: center;
+    padding: 20px;
+
+    h2 {
+      margin-bottom: 10px;
+      font-size: 36px;
+      line-height: 1.2;
+    }
+    p {
+      font-size: 18px;
+      margin: 0;
+      line-height: 1.4;
+    }
+
+    input:not(.button) {
+      margin-bottom: 5px;
+    }
+  }
+
+  .homepage-box-notebook {
+    text-align: right;
+    background: repeating-linear-gradient(white,
+                                          white 20px,
+                                          #eaf6f2 20px,
+                                          #eaf6f2 22px);
+    h2 { font-size: 22px; }
   }
 }
 
@@ -86,4 +121,4 @@
 .homepage-box-green  { @include color-box(#80cb9c); }
 .homepage-box-orange { @include color-box(#f6ad89); }
 .homepage-box-blue   { @include color-box(#4cafce); }
-.homepage-box-white   { @include color-box(#fff); }
+.homepage-box-white  { @include color-box(#fff);    }
