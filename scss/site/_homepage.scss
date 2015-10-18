@@ -16,6 +16,8 @@
    margin: 0;
   }
 
+  a { color: $body-font-color; }
+
   .box-picture {
     height: 100px;
     overflow-y: hidden;
@@ -55,6 +57,9 @@
     height: 200px;
     line-height: 200px;
   }
+  .homepage-box:hover {
+    box-shadow: 0 0 0 5px #628bd8;
+  }
 }
 
 .type-post, .type-page {
@@ -93,7 +98,7 @@
 
   @if($color != #fff) {
     color: #fff;
-    h2 { color: #fff; }
+    h2, a { color: #fff; }
   }
 
   $button_color: if($color == #fff, darken(#9ecb80, 10%), $color);
