@@ -78,3 +78,8 @@ $topbar-link-bg-hover: $topbar-bg-color;
 $topbar-link-bg-color-hover: red;
 $topbar-link-bg-active: $topbar-bg-color;
 $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
+
+// Direction
+$text-direction: rtl;
+$default-float: right;
+$opposite-direction: left;
