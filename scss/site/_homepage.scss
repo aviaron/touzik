@@ -1,3 +1,9 @@
+li.placeholder {
+  height: 310px;
+  border: 5px solid darken($hla-green, 10%);
+  border-radius: 5px;
+}
+
 .homepage-box {
   background-color: white;
   padding: 5px;
@@ -49,6 +55,32 @@
     width: 270px;
     margin: 0;
   }
+
+  .admin-bar {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 8px 10px 3px;
+    background: rgba(255, 255, 255, 0.5);
+    z-index: 1;
+  }
+  &:hover .admin-bar { display: block; }
+  .remove, .handle {
+    background: none;
+    padding: 0;
+    margin: 0;
+    color: #333;
+    font-size: 22px;
+    line-height: 22px;
+    &:hover { font-weight: bold; }
+  }
+  .remove { float: left; }
+  .handle {
+    float: right;
+    cursor: move;
+  }
 }
 
 .type-pet {
@@ -75,6 +107,7 @@
       bottom: 0;
       background-color: white;
       opacity: 0.3;
+      pointer-events: none;
     }
 
     .pet-link {

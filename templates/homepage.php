@@ -9,24 +9,34 @@ get_header(); ?>
 
     $posts = get_posts(array(
       'posts_per_page'  => 18,
-      'post_type'     => array( 'post', 'page', 'pet' ),
+      'post_type' => array( 'post', 'page', 'pet' ),
       'meta_key' => 'homepage_index',
-      'meta_value'     => '0',
-      'meta_compare'   => '>',
+      'meta_value' => '0',
+      'meta_compare' => '>',
       'orderby' => 'meta_value_num',
       'order' => 'ASC'
     ));
 
     if( $posts ): ?>
 
-      <ul class="medium-block-grid-3 small-block-grid-1">
+      <ul class="homepage-box-list medium-block-grid-3 small-block-grid-1">
 
       <?php foreach( $posts as $post ):
         setup_postdata( $post )
         ?>
 
-        <li <?php post_class() ?> id="post-<?php the_ID(); ?>">
+        <li <?php post_class() ?> id="post-<?php the_ID(); ?>" data-post-id="<?php the_ID(); ?>">
           <div class="homepage-box homepage-box-<?= get_field('box_theme') ?>">
+            <?php if ( current_user_can( 'edit_others_posts' ) ): ?>
+            <div class="admin-bar">
+              <button class="remove" title="Remove from homepage">
+                <span class="dashicons dashicons-no"></span>
+              </button>
+              <div class="handle" title="Drag to reorder">
+                <span class="dashicons dashicons-menu"></span>
+              </div>
+            </div>
+            <?php endif; ?>
             <?php get_template_part( 'parts/box', get_post_type( $post ) ); ?>
           </div>
         </li>
