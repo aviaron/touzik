@@ -3,7 +3,7 @@
   $pictures = get_field('pictures');
   if( $pictures ): ?>
     <div class="box-picture">
-      <img src="<?= $pictures[0]['url'] ?>" alt="<?php echo $pictures[0]['alt']; ?>" />
+      <img src="<?= $pictures[0]['sizes']['medium'] ?>" alt="<?php echo $pictures[0]['alt']; ?>" />
     </div>
   <?php endif; ?>
 
