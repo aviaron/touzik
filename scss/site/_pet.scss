@@ -2,6 +2,8 @@
   height: 480px;
   list-style-type: none;
   text-align: center;
+  margin-right: 0;
+  margin-bottom: 50px;
 
   li {
     outline: 0;
@@ -83,21 +85,24 @@
 
 .pet-attributes {
   list-style-type: none;
+  margin-right: 0;
 
   li {
     display: inline-block;
+    vertical-align: top;
     width: 65px;
-    height: 85px;
     padding-top: 70px;
     text-align: center;
     background: transparent no-repeat center top;
     background-size: contain;
     font-size: 12px;
-
     margin-left: 20px;
   }
 
-  li.housebroken { background-image: url('../assets/img/attributes/housebroken.png') }
-  li.licker { background-image: url('../assets/img/attributes/licker.png') }
-  li.noble { background-image: url('../assets/img/attributes/noble.png') }
+  $attributes_list: calm energetic housebroken hypoallergenic licker low-shedder neutered noble puppy;
+  @each $attribute in $attributes_list {
+    li.#{$attribute} {
+      background-image: url('../assets/img/attributes/#{$attribute}.png');
+    }
+  }
 }
