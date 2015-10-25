@@ -62,8 +62,12 @@
 /*
   Vendor stuff
 */
-@import "../bower_components/owl.carousel/dist/assets/owl.carousel";
-@import "../bower_components/owl.carousel/dist/assets/owl.theme.default";
+
+$slick-font-path: '/wp-content/themes/touzik/bower_components/slick.js/slick/fonts/';
+$slick-loader-path: '/wp-content/themes/touzik/bower_components/slick.js/slick/';
+
+@import "../bower_components/slick.js/slick/slick.scss";
+@import "../bower_components/slick.js/slick/slick-theme.scss";
 
 /*
   My custom styles:
@@ -75,4 +79,5 @@
 @import "site/topbar";
 @import "site/footer";
 @import "site/homepage";
+@import "site/pet";
 @import "site/loading";

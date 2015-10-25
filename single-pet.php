@@ -20,10 +20,10 @@ get_header(); ?>
       $pictures = get_field('pictures');
 
       if( $pictures ): ?>
-        <ul class="pet-gallery owl-carousel owl-theme inline-list">
+        <ul class="pet-gallery">
           <?php foreach( $pictures as $picture ): ?>
             <li class="item">
-              <img src="<?= $picture['url'] ?>" alt="<?php echo $picture['alt']; ?>" />
+              <img src="<?= $picture['sizes']['large'] ?>" alt="<?php echo $picture['alt']; ?>" />
             </li>
           <?php endforeach; ?>
         </ul>
