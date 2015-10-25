@@ -15,7 +15,7 @@ $(function() {
 
 		$.post(Touzik.admin_url,
 					{ postId: $item.data('post-id'), action: 'homepage-remove' })
-			.done(function() { $item.fadeOut().remove(); });
+			.done(function() { $item.fadeOut(function() { $(this).remove(); }); });
 	});
 
 	var $spinner = $('<div>').addClass('loading-spinner').appendTo('body');
