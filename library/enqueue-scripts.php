@@ -32,6 +32,25 @@ if ( ! function_exists( 'foundationpress_scripts' ) ) :
 		wp_enqueue_script( 'comment-reply' );
 	}
 
+  wp_register_script( 'ajax', get_template_directory_uri() . '/js/vendor/fastclick.js', array(), '1.0.0', false );
+
+	// Enqueue all registered scripts.
+	wp_enqueue_script( 'modernizr' );
+	wp_enqueue_script( 'fastclick' );
+	wp_enqueue_script( 'jquery' );
+	wp_enqueue_script( 'foundation' );
+
+	if ( current_user_can( 'edit_others_posts' ) ) {
+	  wp_enqueue_script( 'jquery-ui-sortable' );
+    wp_enqueue_style( 'dashicons' );
+  }
+
+	wp_localize_script( 'foundation', 'Touzik', array(
+	 'admin_url' => admin_url( 'admin-ajax.php' ),
+	 'nonce' => wp_create_nonce( 'ajax-nonce' ),
+	 )
+	);
+
 	}
 
 	add_action( 'wp_enqueue_scripts', 'foundationpress_scripts' );

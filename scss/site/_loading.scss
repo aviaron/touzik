@@ -1,0 +1,25 @@
+@keyframes spin {
+  from { transform:rotate(0deg); }
+  to { transform:rotate(360deg); }
+}
+
+.loading-spinner {
+  display: none;
+
+  position: fixed;
+  top: 20px;
+  right: 20px;
+
+  width: 45px;
+  height: 47px;
+
+  border: 5px solid lighten($hla-green, 5%);
+  border-top-color: darken($hla-green, 20%);
+  border-left-color: darken($hla-green, 20%);
+  border-radius: 50%;
+
+  animation-name: spin;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: cubic;
+}
