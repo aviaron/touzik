@@ -99,6 +99,12 @@ acf_add_local_field_group(array (
         'licker' => 'לקקן',
         'noble' => 'אצילי',
         'housebroken' => 'מחונך לצרכים',
+        'energetic' => 'אוהב לשחק',
+        'calm' => 'רגוע',
+        'hypoallergenic' => 'היפו-אלרגי',
+        'neutered' => 'מעוקרת/מסורס',
+        'puppy' => 'גור',
+        'low-shedder' => 'לא משיר שיער',
       ),
       'default_value' => array (
       ),
