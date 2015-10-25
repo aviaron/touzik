@@ -29,7 +29,7 @@
 	<title>הרצליה אוהבת חיות</title>
 	<link>http://local.wordpress.dev</link>
 	<description>וגם נתניה! וגם הדרום!</description>
-	<pubDate>Sun, 18 Oct 2015 16:08:20 +0000</pubDate>
+	<pubDate>Sun, 25 Oct 2015 15:41:16 +0000</pubDate>
 	<language>he-IL</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://local.wordpress.dev</wp:base_site_url>
@@ -75,6 +75,10 @@
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:542;s:4:"file";s:29:"2015/08/Funny_Smiling_Dog.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"Funny_Smiling_Dog-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:29:"Funny_Smiling_Dog-300x271.jpg";s:5:"width";i:300;s:6:"height";i:271;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:28:"http://www.funnydogsite.com/";s:6:"camera";s:0:"";s:7:"caption";s:49:"funny dog pictures : http://www.funnydogsite.com/";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:49:"funny dog pictures : http://www.funnydogsite.com/";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>funny-dog-i-dunno-lol</title>
@@ -105,6 +109,10 @@
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:440;s:4:"file";s:33:"2015/08/funny-dog-i-dunno-lol.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:33:"funny-dog-i-dunno-lol-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:33:"funny-dog-i-dunno-lol-300x220.jpg";s:5:"width";i:300;s:6:"height";i:220;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[18]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -137,6 +145,10 @@
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:28:"2015/08/funny-dog-pics37.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"funny-dog-pics37-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:28:"funny-dog-pics37-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:29:"funny-dog-pics37-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[19]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Loopy_Funny_Dog</title>
@@ -167,6 +179,10 @@
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:453;s:6:"height";i:592;s:4:"file";s:27:"2015/08/Loopy_Funny_Dog.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"Loopy_Funny_Dog-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:27:"Loopy_Funny_Dog-230x300.jpg";s:5:"width";i:230;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[20]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -207,23 +223,27 @@
 			<wp:meta_key>_wp_attachment_context</wp:meta_key>
 			<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
-		<title>admin@local.dev</title>
-		<link>http://local.wordpress.dev/?post_type=flamingo_contact&#038;p=38</link>
-		<pubDate>Sat, 15 Aug 2015 14:59:12 +0000</pubDate>
+		<title>eyal@golan.net</title>
+		<link>http://local.wordpress.dev/?post_type=flamingo_contact&#038;p=40</link>
+		<pubDate>Sat, 15 Aug 2015 15:04:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://local.wordpress.dev/admin-local-dev/</guid>
+		<guid isPermaLink="false">http://local.wordpress.dev/?post_type=flamingo_contact&#038;p=40</guid>
 		<description></description>
-		<content:encoded><![CDATA[admin@local.dev
-admin]]></content:encoded>
+		<content:encoded><![CDATA[eyal@golan.net
+אייל גולן]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>38</wp:post_id>
-		<wp:post_date>2015-08-15 16:59:12</wp:post_date>
-		<wp:post_date_gmt>2015-08-15 14:59:12</wp:post_date_gmt>
+		<wp:post_id>40</wp:post_id>
+		<wp:post_date>2015-08-15 17:04:51</wp:post_date>
+		<wp:post_date_gmt>2015-08-15 15:04:51</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>admin-local-dev</wp:post_name>
+		<wp:post_name>eyal-golan-net</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -232,35 +252,39 @@ admin]]></content:encoded>
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_email</wp:meta_key>
-			<wp:meta_value><![CDATA[admin@local.dev]]></wp:meta_value>
+			<wp:meta_value><![CDATA[eyal@golan.net]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_name</wp:meta_key>
-			<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+			<wp:meta_value><![CDATA[אייל גולן]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_props</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_last_contacted</wp:meta_key>
-			<wp:meta_value><![CDATA[2015-08-15 16:59:12]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2015-08-15 17:04:51]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_email</wp:meta_key>
-			<wp:meta_value><![CDATA[admin@local.dev]]></wp:meta_value>
+			<wp:meta_value><![CDATA[eyal@golan.net]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_name</wp:meta_key>
-			<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+			<wp:meta_value><![CDATA[אייל גולן]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_props</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_last_contacted</wp:meta_key>
-			<wp:meta_value><![CDATA[2015-08-15 16:59:12]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2015-08-15 17:04:51]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[41]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -293,6 +317,10 @@ admin]]></content:encoded>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:796;s:4:"file";s:38:"2015/10/Behold_The_Xoloitzcuintle..jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:38:"Behold_The_Xoloitzcuintle.-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:38:"Behold_The_Xoloitzcuintle.-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:39:"Behold_The_Xoloitzcuintle.-1024x679.jpg";s:5:"width";i:1024;s:6:"height";i:679;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:5.5999999999999996;s:6:"credit";s:0:"";s:6:"camera";s:9:"NIKON D40";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1199833973;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"55";s:3:"iso";s:3:"400";s:13:"shutter_speed";s:17:"0.016666666666667";s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[108]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>bootyscoot</title>
@@ -323,6 +351,10 @@ admin]]></content:encoded>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:493;s:6:"height";i:335;s:4:"file";s:22:"2015/10/bootyscoot.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"bootyscoot-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:22:"bootyscoot-300x204.jpg";s:5:"width";i:300;s:6:"height";i:204;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[109]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -355,6 +387,10 @@ admin]]></content:encoded>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:469;s:4:"file";s:18:"2015/10/fatdog.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"fatdog-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:18:"fatdog-300x281.jpg";s:5:"width";i:300;s:6:"height";i:281;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[110]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>IMG_20151007_122906</title>
@@ -385,6 +421,10 @@ admin]]></content:encoded>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1870;s:6:"height";i:1402;s:4:"file";s:31:"2015/10/IMG_20151007_122906.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"IMG_20151007_122906-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:31:"IMG_20151007_122906-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:32:"IMG_20151007_122906-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[111]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -417,6 +457,10 @@ admin]]></content:encoded>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:19:"2015/10/LN4cDBw.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"LN4cDBw-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"LN4cDBw-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[112]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>maxresdefault</title>
@@ -447,6 +491,10 @@ admin]]></content:encoded>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:25:"2015/10/maxresdefault.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"maxresdefault-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"maxresdefault-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"maxresdefault-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[113]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -479,6 +527,10 @@ admin]]></content:encoded>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:690;s:6:"height";i:460;s:4:"file";s:41:"2015/10/venice-beach-los-angeles-la-7.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:41:"venice-beach-los-angeles-la-7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:41:"venice-beach-los-angeles-la-7-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:5.5999999999999996;s:6:"credit";s:0:"";s:6:"camera";s:13:"Canon EOS 60D";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1409555932;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"130";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.005";s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[114]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>44TaEbYfWmoj69ukFxASuwepo1_1280-e1424463987268</title>
@@ -509,6 +561,10 @@ admin]]></content:encoded>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:505;s:4:"file";s:58:"2015/10/44TaEbYfWmoj69ukFxASuwepo1_1280-e1424463987268.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:58:"44TaEbYfWmoj69ukFxASuwepo1_1280-e1424463987268-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:58:"44TaEbYfWmoj69ukFxASuwepo1_1280-e1424463987268-300x237.jpg";s:5:"width";i:300;s:6:"height";i:237;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[126]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -541,6 +597,10 @@ admin]]></content:encoded>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:686;s:6:"height";i:457;s:4:"file";s:44:"2015/10/726f70ef12979f296b3bf13424a58564.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"726f70ef12979f296b3bf13424a58564-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"726f70ef12979f296b3bf13424a58564-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[129]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>dog-playing-fetch-clipart-i11</title>
@@ -571,6 +631,10 @@ admin]]></content:encoded>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:233;s:6:"height";i:100;s:4:"file";s:41:"2015/10/dog-playing-fetch-clipart-i11.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:41:"dog-playing-fetch-clipart-i11-150x100.png";s:5:"width";i:150;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[132]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -603,6 +667,10 @@ admin]]></content:encoded>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:693;s:6:"height";i:618;s:4:"file";s:27:"2015/10/20131313359_Big.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"20131313359_Big-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:27:"20131313359_Big-300x268.jpg";s:5:"width";i:300;s:6:"height";i:268;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[134]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>a8b14fd08404e2b99add69b2d37ada56</title>
@@ -633,6 +701,10 @@ admin]]></content:encoded>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1024;s:6:"height";i:512;s:4:"file";s:44:"2015/10/a8b14fd08404e2b99add69b2d37ada56.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"a8b14fd08404e2b99add69b2d37ada56-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"a8b14fd08404e2b99add69b2d37ada56-300x150.jpg";s:5:"width";i:300;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"a8b14fd08404e2b99add69b2d37ada56-1024x512.jpg";s:5:"width";i:1024;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[136]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -665,6 +737,10 @@ admin]]></content:encoded>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:4752;s:6:"height";i:3168;s:4:"file";s:25:"2015/10/Welsh_Terrier.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"Welsh_Terrier-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"Welsh_Terrier-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"Welsh_Terrier-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:5.5999999999999996;s:6:"credit";s:0:"";s:6:"camera";s:13:"Canon EOS 50D";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1243180748;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"53";s:3:"iso";s:3:"400";s:13:"shutter_speed";s:5:"0.004";s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[140]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>pitbull-dog-hd-wallpapers-top-deskttop-pitbull-images-widescreen</title>
@@ -696,6 +772,10 @@ admin]]></content:encoded>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:76:"2015/10/pitbull-dog-hd-wallpapers-top-deskttop-pitbull-images-widescreen.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:76:"pitbull-dog-hd-wallpapers-top-deskttop-pitbull-images-widescreen-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:76:"pitbull-dog-hd-wallpapers-top-deskttop-pitbull-images-widescreen-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:77:"pitbull-dog-hd-wallpapers-top-deskttop-pitbull-images-widescreen-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[142]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>התנדבות</title>
@@ -705,7 +785,7 @@ admin]]></content:encoded>
 		<guid isPermaLink="false">http://local.wordpress.dev/?page_id=14</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p dir="rtl"><span class="ArticleBodyTitle">כל פעילות עמותת "הרצליה אוהבת חיות" נשענת על התנדבות.
-</span>אם אתם אוהבים בעלי חיים, נהנים מטיול, משחקים וליקוקים, גרגור חתול הוא הצליל האהוב עליכם וכל כלב או חתול שנמסר לבית חם עושה לכם טוב בלב - מקומכם איתנו – בטיולים היומיים עם הכלבים בכלביה, בהענקת בית אומן ובימי האימוץ.</p>
+</span><span style="color: #00ffff; background: hotpink;">אם אתם אוהבים בעלי חיים, נהנים מטיול, משחקים וליקוקים</span>, <span style="text-decoration: underline;">גרגור חתול הוא הצליל האהוב עליכם</span> ו<em>כל כלב</em> או <em>חתול</em> שנמסר לבית חם עושה לכם <strong>טוב בלב<strong>♥</strong><strong>♥</strong><strong>♥</strong><strong>♥</strong></strong> - מקומכם איתנו – בטיולים היומיים עם הכלבים בכלביה, בהענקת בית אומן ובימי האימוץ.</p>
 <p dir="rtl">הפעילות היא 7 ימים בשבוע לאורך כל השנה. אין צורך בהתחייבות ויש גמישות גדולה בלוחות הזמנים ובסוגי הפעילות. גם תרומה של שעה-שעתיים בשבוע מהווה עזרה אדירה ומצילה חיים.</p>
 תחושת הסיפוק והאהבה ללא תנאי שתקבלו מהכלבים ילוו אתכם לכל אורך הדרך ההתנדבותית בהרצליה אוהבת חיות.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -731,189 +811,7 @@ admin]]></content:encoded>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8b4fcff1a4]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>box_theme</wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_box_theme</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8b4f0911a6]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>link</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_link</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8cea22a961]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>link_text</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_link_text</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8c3a22a209]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>קלארק גייבל</title>
-		<link>http://local.wordpress.dev/pet/clark/</link>
-		<pubDate>Sat, 08 Aug 2015 11:49:12 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://local.wordpress.dev/?post_type=pet&#038;p=15</guid>
-		<description></description>
-		<content:encoded><![CDATA[קלארק הוא כלב אמיץ וחמוד.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date>2015-08-08 13:49:12</wp:post_date>
-		<wp:post_date_gmt>2015-08-08 11:49:12</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>clark</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>pet</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>type</wp:meta_key>
-			<wp:meta_value><![CDATA[dog]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_type</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55c25434d0637]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>pet_name</wp:meta_key>
-			<wp:meta_value><![CDATA[קלארק]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_pet_name</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55c25454d0638]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>sex</wp:meta_key>
-			<wp:meta_value><![CDATA[male]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_sex</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55c25464d0639]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>birthday</wp:meta_key>
-			<wp:meta_value><![CDATA[20130807]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_birthday</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55c254a4d063a]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>pictures</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:3:"111";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_pictures</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55c2559dd063c]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>attributes</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_attributes</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55c2718f74be4]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>adopted</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_adopted</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55c2721b33b56]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>type</wp:meta_key>
-			<wp:meta_value><![CDATA[dog]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_type</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55c25434d0637]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>pet_name</wp:meta_key>
-			<wp:meta_value><![CDATA[קלארק]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_pet_name</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55c25454d0638]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>sex</wp:meta_key>
-			<wp:meta_value><![CDATA[male]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_sex</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55c25464d0639]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>birthday</wp:meta_key>
-			<wp:meta_value><![CDATA[20130807]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_birthday</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55c254a4d063a]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>pictures</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:3:"111";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_pictures</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55c2559dd063c]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>attributes</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_attributes</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55c2718f74be4]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>adopted</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_adopted</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55c2721b33b56]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>featured_in_homepage</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_featured_in_homepage</wp:meta_key>
-			<wp:meta_value><![CDATA[field_55d8b4d4ff1a3]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -980,6 +878,69 @@ admin]]></content:encoded>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>admin@local.dev</title>
+		<link>http://local.wordpress.dev/?post_type=flamingo_contact&#038;p=38</link>
+		<pubDate>Sun, 25 Oct 2015 13:42:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://local.wordpress.dev/admin-local-dev/</guid>
+		<description></description>
+		<content:encoded><![CDATA[admin@local.dev
+admin]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>38</wp:post_id>
+		<wp:post_date>2015-10-25 15:42:12</wp:post_date>
+		<wp:post_date_gmt>2015-10-25 13:42:12</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>admin-local-dev</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>flamingo_contact</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_email</wp:meta_key>
+			<wp:meta_value><![CDATA[admin@local.dev]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_name</wp:meta_key>
+			<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_props</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_last_contacted</wp:meta_key>
+			<wp:meta_value><![CDATA[2015-10-25 15:42:12]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_email</wp:meta_key>
+			<wp:meta_value><![CDATA[admin@local.dev]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_name</wp:meta_key>
+			<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_props</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_last_contacted</wp:meta_key>
+			<wp:meta_value><![CDATA[2015-10-25 15:42:12]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[39]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1103,60 +1064,9 @@ admin]]></content:encoded>
 			<wp:meta_key>_akismet</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>eyal@golan.net</title>
-		<link>http://local.wordpress.dev/?post_type=flamingo_contact&#038;p=40</link>
-		<pubDate>Sat, 15 Aug 2015 15:04:51 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://local.wordpress.dev/?post_type=flamingo_contact&#038;p=40</guid>
-		<description></description>
-		<content:encoded><![CDATA[eyal@golan.net
-אייל גולן]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date>2015-08-15 17:04:51</wp:post_date>
-		<wp:post_date_gmt>2015-08-15 15:04:51</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>eyal-golan-net</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>flamingo_contact</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
-			<wp:meta_key>_email</wp:meta_key>
-			<wp:meta_value><![CDATA[eyal@golan.net]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_name</wp:meta_key>
-			<wp:meta_value><![CDATA[אייל גולן]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_props</wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_last_contacted</wp:meta_key>
-			<wp:meta_value><![CDATA[2015-08-15 17:04:51]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_email</wp:meta_key>
-			<wp:meta_value><![CDATA[eyal@golan.net]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_name</wp:meta_key>
-			<wp:meta_value><![CDATA[אייל גולן]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_props</wp:meta_key>
-			<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_last_contacted</wp:meta_key>
-			<wp:meta_value><![CDATA[2015-08-15 17:04:51]]></wp:meta_value>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[40]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1290,6 +1200,10 @@ eyal@golan.net
 			<wp:meta_key>_akismet</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[42]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>soo@goo.com</title>
@@ -1344,6 +1258,10 @@ eyal@golan.net
 		<wp:postmeta>
 			<wp:meta_key>_last_contacted</wp:meta_key>
 			<wp:meta_value><![CDATA[2015-08-22 18:15:47]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[44]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1476,6 +1394,10 @@ soo@goo.com
 			<wp:meta_key>_akismet</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[45]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>מי אנחנו</title>
@@ -1509,6 +1431,10 @@ soo@goo.com
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1544,7 +1470,7 @@ soo@goo.com
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -1606,7 +1532,7 @@ soo@goo.com
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -1646,7 +1572,7 @@ soo@goo.com
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -1736,6 +1662,10 @@ soo@goo.com
 			<wp:meta_key>_akismet</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[95]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>בואו להתנדב</title>
@@ -1768,7 +1698,7 @@ soo@goo.com
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[9]]></wp:meta_value>
+			<wp:meta_value><![CDATA[11]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -1830,7 +1760,7 @@ soo@goo.com
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[18]]></wp:meta_value>
+			<wp:meta_value><![CDATA[9]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -1915,6 +1845,10 @@ soo@goo.com
 			<wp:meta_key>_menu_item_url</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[144]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title></title>
@@ -1970,6 +1904,10 @@ soo@goo.com
 			<wp:meta_key>_menu_item_url</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[145]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title></title>
@@ -2024,6 +1962,10 @@ soo@goo.com
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[146]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2106,7 +2048,7 @@ soo@goo.com
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -2191,6 +2133,262 @@ soo@goo.com
 			<wp:meta_key>_menu_item_url</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[149]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>בואו לבקר אצלנו!</title>
+		<link>http://local.wordpress.dev/%d7%91%d7%95%d7%90%d7%95-%d7%9c%d7%91%d7%a7%d7%a8-%d7%90%d7%a6%d7%9c%d7%a0%d7%95/</link>
+		<pubDate>Sun, 25 Oct 2015 08:27:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://local.wordpress.dev/?page_id=158</guid>
+		<description></description>
+		<content:encoded><![CDATA[בלה בלה בלה]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>158</wp:post_id>
+		<wp:post_date>2015-10-25 10:27:41</wp:post_date>
+		<wp:post_date_gmt>2015-10-25 08:27:41</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>%d7%91%d7%95%d7%90%d7%95-%d7%9c%d7%91%d7%a7%d7%a8-%d7%90%d7%a6%d7%9c%d7%a0%d7%95</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[160]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4fcff1a4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>box_theme</wp:meta_key>
+			<wp:meta_value><![CDATA[blue]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_box_theme</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4f0911a6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>link</wp:meta_key>
+			<wp:meta_value><![CDATA[http://facebook.com/]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_link</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8cea22a961]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>link_text</wp:meta_key>
+			<wp:meta_value><![CDATA[כנסו לפייסבוק]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_link_text</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8c3a22a209]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1445762535]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>קלארק גייבל</title>
+		<link>http://local.wordpress.dev/pet/clark/</link>
+		<pubDate>Sat, 08 Aug 2015 11:49:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://local.wordpress.dev/?post_type=pet&#038;p=15</guid>
+		<description></description>
+		<content:encoded><![CDATA[קלארק הוא כלב אמיץ וחמוד.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>15</wp:post_id>
+		<wp:post_date>2015-08-08 13:49:12</wp:post_date>
+		<wp:post_date_gmt>2015-08-08 11:49:12</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>clark</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>pet</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>type</wp:meta_key>
+			<wp:meta_value><![CDATA[dog]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_type</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55c25434d0637]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>pet_name</wp:meta_key>
+			<wp:meta_value><![CDATA[קלארק]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_pet_name</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55c25454d0638]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>sex</wp:meta_key>
+			<wp:meta_value><![CDATA[male]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_sex</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55c25464d0639]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>birthday</wp:meta_key>
+			<wp:meta_value><![CDATA[20130807]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_birthday</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55c254a4d063a]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>pictures</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{i:0;s:3:"111";i:1;s:3:"112";i:2;s:2:"19";i:3;s:3:"113";i:4;s:2:"18";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_pictures</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55c2559dd063c]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>attributes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{i:0;s:6:"licker";i:1;s:5:"noble";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_attributes</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55c2718f74be4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>adopted</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_adopted</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55c2721b33b56]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>type</wp:meta_key>
+			<wp:meta_value><![CDATA[dog]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_type</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55c25434d0637]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>pet_name</wp:meta_key>
+			<wp:meta_value><![CDATA[קלארק]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_pet_name</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55c25454d0638]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>sex</wp:meta_key>
+			<wp:meta_value><![CDATA[male]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_sex</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55c25464d0639]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>birthday</wp:meta_key>
+			<wp:meta_value><![CDATA[20130807]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_birthday</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55c254a4d063a]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>pictures</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{i:0;s:3:"111";i:1;s:3:"112";i:2;s:2:"19";i:3;s:3:"113";i:4;s:2:"18";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_pictures</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55c2559dd063c]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>attributes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{i:0;s:6:"licker";i:1;s:5:"noble";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_attributes</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55c2718f74be4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>adopted</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_adopted</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55c2721b33b56]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>featured_in_homepage</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_featured_in_homepage</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4d4ff1a3]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4fcff1a4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>box_theme</wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_box_theme</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8b4f0911a6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>link</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_link</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8cea22a961]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>link_text</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_link_text</wp:meta_key>
+			<wp:meta_value><![CDATA[field_55d8c3a22a209]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>התעניינות באימוץ</title>
@@ -2201,22 +2399,17 @@ soo@goo.com
 		<description></description>
 		<content:encoded><![CDATA[[hidden your-subject "post_title"]
 
-<p>שם מלא<br />
-    [text* your-name]</p>
+[text* your-name placeholder "שם מלא"]
 
-<p>אימייל<br />
-    [email your-email]</p>
+[email your-email placeholder "אימייל"]
 
-<p>יישוב<br />
-    [text* city] </p>
+[text* city placeholder "עיר"]
 
-<p>טלפון<br />
-    [tel* tel]</p>
+[tel* tel placeholder "טלפון"]
 
-<p>הערות<br />
-    [textarea your-message]</p>
+[textarea your-message placeholder "הערות"]
 
-<p>[submit "שלח"]</p>
+[submit class:button class:success "שלח"]
 התעניינות באימוץ: [your-subject]
 [your-name] <wordpress@local.wordpress.dev>
 מאת: [your-name]
@@ -2288,22 +2481,17 @@ Reply-To: admin@local.dev
 			<wp:meta_key>_form</wp:meta_key>
 			<wp:meta_value><![CDATA[[hidden your-subject "post_title"]
 
-<p>שם מלא<br />
-    [text* your-name]</p>
+[text* your-name placeholder "שם מלא"]
 
-<p>אימייל<br />
-    [email your-email]</p>
+[email your-email placeholder "אימייל"]
 
-<p>יישוב<br />
-    [text* city] </p>
+[text* city placeholder "עיר"]
 
-<p>טלפון<br />
-    [tel* tel]</p>
+[tel* tel placeholder "טלפון"]
 
-<p>הערות<br />
-    [textarea your-message]</p>
+[textarea your-message placeholder "הערות"]
 
-<p>[submit "שלח"]</p>]]></wp:meta_value>
+[submit class:button class:success "שלח"]]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_mail</wp:meta_key>
@@ -2343,22 +2531,17 @@ Reply-To: admin@local.dev
 			<wp:meta_key>_form</wp:meta_key>
 			<wp:meta_value><![CDATA[[hidden your-subject "post_title"]
 
-<p>שם מלא<br />
-    [text* your-name]</p>
+[text* your-name placeholder "שם מלא"]
 
-<p>אימייל<br />
-    [email your-email]</p>
+[email your-email placeholder "אימייל"]
 
-<p>יישוב<br />
-    [text* city] </p>
+[text* city placeholder "עיר"]
 
-<p>טלפון<br />
-    [tel* tel]</p>
+[tel* tel placeholder "טלפון"]
 
-<p>הערות<br />
-    [textarea your-message]</p>
+[textarea your-message placeholder "הערות"]
 
-<p>[submit "שלח"]</p>]]></wp:meta_value>
+[submit class:button class:success "שלח"]]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_mail</wp:meta_key>
@@ -2394,6 +2577,10 @@ Reply-To: admin@local.dev
 			<wp:meta_key>_locale</wp:meta_key>
 			<wp:meta_value><![CDATA[he_IL]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[36]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>יום אימוץ 15.6.2017</title>
@@ -2426,7 +2613,7 @@ Reply-To: admin@local.dev
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+			<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -2580,6 +2767,10 @@ Reply-To: admin@local.dev
 			<wp:meta_key>_locale</wp:meta_key>
 			<wp:meta_value><![CDATA[he_IL]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>קרמבו</title>
@@ -2608,7 +2799,7 @@ Reply-To: admin@local.dev
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -2722,7 +2913,7 @@ Reply-To: admin@local.dev
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -2836,7 +3027,7 @@ Reply-To: admin@local.dev
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -2950,7 +3141,7 @@ Reply-To: admin@local.dev
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+			<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -3182,7 +3373,7 @@ Reply-To: admin@local.dev
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[7]]></wp:meta_value>
+			<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -3271,8 +3462,8 @@ Reply-To: admin@local.dev
 	</item>
 	<item>
 		<title>צ׳ארלס</title>
-		<link>http://local.wordpress.dev/?p=122</link>
-		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<link>http://local.wordpress.dev/%d7%a6%d7%b3%d7%90%d7%a8%d7%9c%d7%a1/</link>
+		<pubDate>Sun, 18 Oct 2015 13:13:30 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://local.wordpress.dev/?p=122</guid>
 		<description></description>
@@ -3280,11 +3471,11 @@ Reply-To: admin@local.dev
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date>2015-10-18 15:13:30</wp:post_date>
-		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:post_date_gmt>2015-10-18 13:13:30</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name></wp:post_name>
-		<wp:status>draft</wp:status>
+		<wp:post_name>%d7%a6%d7%b3%d7%90%d7%a8%d7%9c%d7%a1</wp:post_name>
+		<wp:status>trash</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type>post</wp:post_type>
@@ -3294,6 +3485,18 @@ Reply-To: admin@local.dev
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1445762087]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[161]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3323,7 +3526,7 @@ Reply-To: admin@local.dev
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[11]]></wp:meta_value>
+			<wp:meta_value><![CDATA[12]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -3437,7 +3640,7 @@ Reply-To: admin@local.dev
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[12]]></wp:meta_value>
+			<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -3552,7 +3755,7 @@ Reply-To: admin@local.dev
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[15]]></wp:meta_value>
+			<wp:meta_value><![CDATA[17]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -3728,7 +3931,7 @@ Reply-To: admin@local.dev
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[13]]></wp:meta_value>
+			<wp:meta_value><![CDATA[15]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -3842,7 +4045,7 @@ Reply-To: admin@local.dev
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>homepage_index</wp:meta_key>
-			<wp:meta_value><![CDATA[17]]></wp:meta_value>
+			<wp:meta_value><![CDATA[18]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_homepage_index</wp:meta_key>
@@ -4041,6 +4244,44 @@ Reply-To: admin@local.dev
 		<wp:postmeta>
 			<wp:meta_key>_adopted</wp:meta_key>
 			<wp:meta_value><![CDATA[field_55c2721b33b56]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>שם של כלב</title>
+		<link>http://local.wordpress.dev/pet/%d7%a9%d7%9d-%d7%a9%d7%9c-%d7%9b%d7%9c%d7%91/</link>
+		<pubDate>Sun, 25 Oct 2015 08:26:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://local.wordpress.dev/?post_type=pet&#038;p=157</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>157</wp:post_id>
+		<wp:post_date>2015-10-25 10:26:05</wp:post_date>
+		<wp:post_date_gmt>2015-10-25 08:26:05</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>%d7%a9%d7%9d-%d7%a9%d7%9c-%d7%9b%d7%9c%d7%91</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>pet</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1445778606]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>homepage_index</wp:meta_key>
+			<wp:meta_value><![CDATA[158]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
