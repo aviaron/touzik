@@ -13,8 +13,8 @@ $(function() {
 	$list.on('click', 'li .remove', function() {
 		$item = $(this).closest('li');
 
-		$.post(Touzik.admin_url,
-					{ postId: $item.data('post-id'), action: 'homepage-remove' })
+		$.post(Touzik.admin_url, { postId: $item.data('post-id'),
+															 action: 'homepage-remove' })
 			.done(function() { $item.fadeOut(function() { $(this).remove(); }); });
 	});
 
@@ -22,4 +22,8 @@ $(function() {
 	$(document)
 		.ajaxStart(function() { $spinner.fadeIn('fast'); })
 		.ajaxStop(function() { $spinner.fadeOut('fast'); });
+
+	$.ajaxPrefilter(function(options, originalOptions, jqXHR) {
+		jqXHR.setRequestHeader('X-Touzik-Nonce', Touzik.nonce);
+	});
 });

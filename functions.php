@@ -54,21 +54,8 @@ require_once( 'library/custom-header.php' );
 /** Add Header image */
 require_once( 'library/facebook-sdk.php' );
 
+/** Admin actions controller */
 if ( current_user_can( 'edit_others_posts' ) ) {
-	add_action('wp_ajax_homepage-shuffle', 'homepage_shuffle');
-	add_action('wp_ajax_homepage-remove', 'homepage_remove');
+  require_once( 'library/admin-controller.php');
 }
-
-function homepage_shuffle() {
-	foreach($_POST['list'] as $index => $postId) {
-		update_post_meta($postId, 'homepage_index', $index + 1);
-	}
-	exit;
-}
-
-function homepage_remove() {
-	update_post_meta($_POST['postId'], 'homepage_index', null);
-	exit;
-}
-
 ?>

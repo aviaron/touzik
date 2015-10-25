@@ -47,12 +47,6 @@ if ( ! function_exists( 'foundationpress_scripts' ) ) :
     wp_enqueue_style( 'dashicons' );
   }
 
-	wp_localize_script( 'foundation', 'Touzik', array(
-	 'admin_url' => admin_url( 'admin-ajax.php' ),
-	 'nonce' => wp_create_nonce( 'ajax-nonce' ),
-	 )
-	);
-
 	}
 
 	add_action( 'wp_enqueue_scripts', 'foundationpress_scripts' );
