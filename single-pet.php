@@ -29,26 +29,28 @@ get_header(); ?>
         </ul>
       <?php endif; ?>
 
-      <header>
-        <h1 class="entry-title"><?php the_title(); ?></h1>
-      </header>
+      <div class="row">
+        <div class="entry-content large-9 small-1 columns">
+          <header>
+            <h1 class="entry-title"><?php the_title(); ?></h1>
+          </header>
+          <?php the_content(); ?>
 
-      <div class="pet-contact">
-        <?= do_shortcode( '[contact-form-7 id="35" title="התעניינות באימוץ"]' ); ?>
-      </div>
-
-      <div class="pet-attributes">
-        <ul>
           <?php if( get_field( 'attributes' ) ): ?>
-          <?php foreach( get_field('attributes') as $attribute ): ?>
-            <li>
-              <div class="<?= esc_attr( $attribute ); ?>">
+            <ul class="pet-attributes">
+            <?php foreach( get_field('attributes') as $attribute ): ?>
+              <li class="<?= esc_attr( $attribute ); ?>">
                 <?= esc_html( $attribute ); ?>
-              </div>
-            </li>
-          <?php endforeach; ?>
+              </li>
+            <?php endforeach; ?>
+            </ul>
           <?php endif; ?>
-        </ul>
+        </div>
+
+        <div class="pet-contact large-3 small-1 columns">
+          <h2 class="contact-form">מתעניין באימוץ?</h2>
+          <?= do_shortcode( '[contact-form-7 id="35" title="התעניינות באימוץ"]' ); ?>
+        </div>
       </div>
 
       </div>
