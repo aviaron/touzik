@@ -42,3 +42,62 @@
     &:before { content: "\f341"; }
   }
 }
+
+.pet-contact {
+  border-right: 1px solid #fff;
+  padding-right: 20px;
+
+  h2 {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: $hla-text;
+  }
+
+  p {
+    margin: 0 {
+      bottom: 10px;
+    }
+
+    &:last-of-type { margin: 0; }
+  }
+
+  textarea { height: 75px; }
+  input, textarea {
+    line-height: 35px;
+    padding: 10px;
+    margin: 0;
+    box-shadow: 0 1px 0 #ccc inset;
+    border-radius: 5px;
+  }
+  input[type=submit] {
+    width: 100%;
+  }
+}
+
+.entry-content {
+  p {
+    font-size: 20px;
+  }
+}
+
+.pet-attributes {
+  list-style-type: none;
+
+  li {
+    display: inline-block;
+    width: 65px;
+    height: 85px;
+    padding-top: 70px;
+    text-align: center;
+    background: transparent no-repeat center top;
+    background-size: contain;
+    font-size: 12px;
+
+    margin-left: 20px;
+  }
+
+  li.housebroken { background-image: url('../assets/img/attributes/housebroken.png') }
+  li.licker { background-image: url('../assets/img/attributes/licker.png') }
+  li.noble { background-image: url('../assets/img/attributes/noble.png') }
+}
