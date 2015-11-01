@@ -36,16 +36,7 @@ get_header(); ?>
           </header>
           <?php the_content(); ?>
 
-          <?php if( get_field( 'attributes' ) ): ?>
-            <?php $field = get_field_object( 'attributes' ); ?>
-            <ul class="pet-attributes">
-            <?php foreach( get_field('attributes') as $attribute ): ?>
-              <li class="<?= esc_attr( $attribute ); ?>">
-                <?= esc_html( $field['choices'][$attribute] ); ?>
-              </li>
-            <?php endforeach; ?>
-            </ul>
-          <?php endif; ?>
+          <?php get_template_part( 'parts/pet-attributes' ); ?>
         </div>
 
         <div class="pet-contact large-3 small-1 columns">
