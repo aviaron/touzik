@@ -89,7 +89,7 @@ module.exports = function(grunt) {
 
           // Vendor stuff
           'bower_components/slick.js/slick/slick.js',
-          'bower_components/dist/html.sortable.js',
+          'bower_components/html.sortable/dist/html.sortable.js',
 
           // Include your own custom scripts (located in the custom folder)
           'js/custom/*.js'
