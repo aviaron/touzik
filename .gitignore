@@ -8,6 +8,7 @@ assets/javascript/vendor/
 assets/stylesheets/
 css/foundation.css
 css/foundation.css.map
+js/foundation.js
 node_modules/
 packaged/
 touzik.sublime-project
