@@ -3,7 +3,7 @@ $(function() {
 
 	$list
 		.sortable({
-			placeholder: 'placeholder small-1 large-4 columns',
+			placeholder: '<li class="placeholder small-1 large-4 columns"></li>',
 			handle: '.handle'
 		})
 		.on('sortupdate', function(ev, ui) {

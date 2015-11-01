@@ -41,7 +41,6 @@ if ( ! function_exists( 'foundationpress_scripts' ) ) :
 	wp_enqueue_script( 'foundation' );
 
 	if ( current_user_can( 'edit_others_posts' ) ) {
-	  wp_enqueue_script( 'jquery-ui-sortable' );
     wp_enqueue_style( 'dashicons' );
   }
 
