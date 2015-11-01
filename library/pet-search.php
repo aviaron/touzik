@@ -9,12 +9,14 @@ function pet_search() {
 		'relation' => 'AND'
 	);
 
-	if ( isset( $_REQUEST['sex'] ) ) {
-		$meta_query[] = array(
-			'key' => 'sex',
-			'value' => $_REQUEST['sex'],
-			'comapre' => '='
-		);
+	foreach( ['sex', 'size', 'breed'] as $criterion ) {
+		if ( isset( $_REQUEST[$criterion] ) && $_REQUEST[$criterion] != '' ) {
+			$meta_query[] = array(
+				'key' => $criterion,
+				'value' => $_REQUEST[$criterion],
+				'comapre' => '='
+			);
+		}
 	}
 
 	$posts = get_posts(array(
@@ -24,6 +26,8 @@ function pet_search() {
 		'order' => 'DESC',
 		'meta_query' => $meta_query
 	));
+
+	// TODO: deal with zero results?
 
 	foreach( $posts as $post ) {
 		setup_postdata( $post );
