@@ -197,3 +197,10 @@ li.placeholder {
 .homepage-box-orange { @include color-box(#f6ad89); }
 .homepage-box-blue   { @include color-box(#4cafce); }
 .homepage-box-white  { @include color-box(#fff);    }
+
+#pet-search-form {
+  float: left;
+  margin-left: 15px;
+
+  select { width: 100px; }
+}

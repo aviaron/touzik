@@ -3,9 +3,8 @@
 function search_options_for($name, $default_label) {
   $field = acf_get_local_field( "field_$name" );
 ?>
-<label for="<?= $name ?>"><?= $field['label'] ?>:</label>
 <select name="<?= $name ?>">
-  <option selected value="">-- <?= $default_label ?> --</option>
+  <option selected value=""><?= $field['label'] ?>:</option>
   <?php foreach( $field['choices'] as $key => $value ): ?>
     <option value="<?= $key ?>"><?= $value ?></option>
   <?php endforeach; ?>
