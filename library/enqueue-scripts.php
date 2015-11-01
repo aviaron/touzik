@@ -34,6 +34,8 @@ if ( ! function_exists( 'foundationpress_scripts' ) ) :
 
   wp_register_script( 'ajax', get_template_directory_uri() . '/js/vendor/fastclick.js', array(), '1.0.0', false );
 
+  wp_register_script( 'admin_homepage', get_template_directory_uri() . '/js/admin/homepage.js', array(), '1.0.0', true );
+
 	// Enqueue all registered scripts.
 	wp_enqueue_script( 'modernizr' );
 	wp_enqueue_script( 'fastclick' );
@@ -42,6 +44,7 @@ if ( ! function_exists( 'foundationpress_scripts' ) ) :
 
 	if ( current_user_can( 'edit_others_posts' ) ) {
     wp_enqueue_style( 'dashicons' );
+    wp_enqueue_script( 'admin_homepage' );
   }
 
 	}
