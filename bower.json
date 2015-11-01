@@ -10,5 +10,6 @@
     "fontawesome": "~4.5.0"
     "motion-ui" : "~1.2.0",
     "slick.js": "~1.5.8"
+    "html.sortable": "~0.3.0"
   }
 }
