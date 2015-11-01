@@ -8,7 +8,10 @@
   <?php endif; ?>
 
   <div class="pet-details">
-    <h2><?php the_title(); ?></h2>
+    <header>
+      <h2><?php the_title(); ?></h2>
+      <?php get_template_part( 'parts/pet-attributes' ); ?>
+    </header>
     <div class="pet-description">
       <?php the_content(); ?>
     </div>
