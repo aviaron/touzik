@@ -54,6 +54,8 @@ require_once( 'library/custom-header.php' );
 /** Add Header image */
 require_once( 'library/facebook-sdk.php' );
 
+require_once( 'library/pet-search.php' );
+
 /** Admin actions controller */
 if ( current_user_can( 'edit_others_posts' ) ) {
   require_once( 'library/admin-controller.php');
