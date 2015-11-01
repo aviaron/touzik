@@ -3,6 +3,9 @@
 Template Name: Homepage
 */
 get_header(); ?>
+
+<?php get_template_part( 'parts/pet-search-form' ); ?>
+
 <div class="row">
   <div class="small-12 large-12 columns" role="main">
   <?php
