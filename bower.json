@@ -8,6 +8,7 @@
   "dependencies": {
     "foundation": "zurb/bower-foundation",
     "fontawesome": "~4.3.0",
-    "slick.js": "~1.5.8"
+    "slick.js": "~1.5.8",
+    "html.sortable": "~0.3.0"
   }
 }
