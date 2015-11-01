@@ -1,6 +1,7 @@
 <?php
 
 add_action( 'wp_ajax_pet-search', 'pet_search' );
+add_action( 'wp_ajax_nopriv_pet-search', 'pet_search' );
 
 function pet_search() {
 	global $post;
