@@ -28,7 +28,7 @@ get_header(); ?>
         setup_postdata( $post )
         ?>
 
-        <li <?php post_class( 'small-1 large-4 columns' ) ?> id="post-<?php the_ID(); ?>" data-post-id="<?php the_ID(); ?>">
+        <li <?php post_class( 'small-12 large-4 columns' ) ?> id="post-<?php the_ID(); ?>" data-post-id="<?php the_ID(); ?>">
           <div class="homepage-box homepage-box-<?= get_field('box_theme') ?>">
             <?php if ( current_user_can( 'edit_others_posts' ) ): ?>
             <div class="admin-bar">

@@ -9,7 +9,7 @@ function render_results($posts) {
 	foreach( $posts as $post ) {
 		setup_postdata( $post );
 ?>
-<li <?php post_class( 'small-1 large-4 columns' ) ?> id="post-<?php the_ID(); ?>">
+<li <?php post_class( 'small-12 large-4 columns' ) ?> id="post-<?php the_ID(); ?>">
 	<div class="homepage-box">
 		<?php get_template_part( 'parts/box', 'pet' ); ?>
 	</div>
@@ -50,7 +50,7 @@ function pet_search() {
 			'orderby' => 'rand'
 		));
 ?>
-	<li class="no-results small-1 large-12 columns">
+	<li class="no-results small-12 large-12 columns">
 		לא נמצאו תוצאות על פי פרמטרי החיפוש. אולי הכלבים הבאים יענינו אותך:
 	</li>
 <?php

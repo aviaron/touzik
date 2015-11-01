@@ -30,7 +30,7 @@ get_header(); ?>
       <?php endif; ?>
 
       <div class="row">
-        <div class="entry-content large-9 small-1 columns">
+        <div class="entry-content large-9 small-12 columns">
           <header>
             <h1 class="entry-title"><?php the_title(); ?></h1>
           </header>
@@ -39,7 +39,7 @@ get_header(); ?>
           <?php get_template_part( 'parts/pet-attributes' ); ?>
         </div>
 
-        <div class="pet-contact large-3 small-1 columns">
+        <div class="pet-contact large-3 small-12 columns">
           <h2 class="contact-form">מתעניין באימוץ?</h2>
           <?= do_shortcode( '[contact-form-7 id="35" title="התעניינות באימוץ"]' ); ?>
         </div>
