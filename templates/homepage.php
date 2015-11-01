@@ -19,13 +19,13 @@ get_header(); ?>
 
     if( $posts ): ?>
 
-      <ul class="homepage-box-list medium-block-grid-3 small-block-grid-1">
+      <ul class="homepage-box-list row">
 
       <?php foreach( $posts as $post ):
         setup_postdata( $post )
         ?>
 
-        <li <?php post_class() ?> id="post-<?php the_ID(); ?>" data-post-id="<?php the_ID(); ?>">
+        <li <?php post_class( 'small-1 large-4 columns' ) ?> id="post-<?php the_ID(); ?>" data-post-id="<?php the_ID(); ?>">
           <div class="homepage-box homepage-box-<?= get_field('box_theme') ?>">
             <?php if ( current_user_can( 'edit_others_posts' ) ): ?>
             <div class="admin-bar">

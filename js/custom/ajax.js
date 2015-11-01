@@ -1,22 +1,24 @@
 $(function() {
 	var $list = $('.homepage-box-list');
 
-	$list.sortable({ placeholder: 'placeholder', handle: '.handle' })
+	$list
+		.sortable({
+			placeholder: 'placeholder small-1 large-4 columns',
+			handle: '.handle'
+		})
 		.on('sortupdate', function(ev, ui) {
 			var data = $list.find('li').toArray().map(function(item){
 				return $(item).data('post-id');
 			});
-
 			$.post(Touzik.admin_url, { list: data, action: 'homepage-shuffle' });
+		})
+    .on('click', 'li .remove', function() {
+			$item = $(this).closest('li');
+
+			$.post(Touzik.admin_url, { postId: $item.data('post-id'),
+																 action: 'homepage-remove' })
+				.done(function() { $item.fadeOut(function() { $(this).remove(); }); });
 		});
-
-	$list.on('click', 'li .remove', function() {
-		$item = $(this).closest('li');
-
-		$.post(Touzik.admin_url, { postId: $item.data('post-id'),
-															 action: 'homepage-remove' })
-			.done(function() { $item.fadeOut(function() { $(this).remove(); }); });
-	});
 
 	var $spinner = $('<div>').addClass('loading-spinner').appendTo('body');
 	$(document)
