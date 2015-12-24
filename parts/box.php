@@ -4,8 +4,10 @@
   </div>
 <?php endif; ?>
 
-<h2><?= the_title() ?></h2>
-<?= the_content() ?>
+<div class="box-content">
+  <h2><?= the_title() ?></h2>
+  <?= the_content() ?>
+</div>
 
 <?php
 $link = get_field('link');

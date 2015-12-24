@@ -51,31 +51,19 @@
   padding-right: 20px;
 
   h2 {
-    font-size: 18px;
-    font-weight: bold;
+    font-size: 20px;
     text-align: center;
     color: $hla-text;
   }
 
   p {
-    margin: 0 {
-      bottom: 10px;
-    }
-
+    margin: 0 0 10px;
     &:last-of-type { margin: 0; }
   }
 
-  textarea { height: 75px; }
-  input, textarea {
-    line-height: 35px;
-    padding: 10px;
-    margin: 0;
-    box-shadow: 0 1px 0 #ccc inset;
-    border-radius: 5px;
-  }
-  input[type=submit] {
-    width: 100%;
-  }
+  @include contact-form;
+
+  input[type=submit] { width: 100%; }
 }
 
 .entry-content {
@@ -86,7 +74,7 @@
 
 .pet-attributes {
   list-style-type: none;
-  margin-right: 0;
+  margin: 30px 0 0;
 
   li {
     display: inline-block;
@@ -110,6 +98,8 @@
 
 .comment-list {
   list-style: none;
+  margin: 30px 0 0;
+
   li {
     background-color: #f3f9ef;
     border-radius: 10px;
@@ -137,7 +127,14 @@
 	}
 }
 
+.comment-body p {
+  font-size: 20px;
+  line-height: 24px;
+}
+
 .more-dogs {
+  margin-top: 50px;
+
   h1 {
     text-align: center;
     font-size: 2em;
@@ -145,6 +142,6 @@
   }
   .button {
     @include color-button(#3969d1);
-    width: 265px;
+    width: 100%;
   }
 }

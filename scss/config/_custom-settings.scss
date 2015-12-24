@@ -36,6 +36,7 @@ $greyish-brown : #3D3D3D;
 $linen         : #FBF5E9;
 $hla-green     : #e6f2df;
 $hla-text      : #85a869;
+$hla-black     : #4c4c4c;
 
 // We use these as default colors throughout
 $primary-color: #008CBA;
@@ -69,7 +70,7 @@ $topbar-title-font-size: rem-calc(30);
 $topbar-link-color: $hla-text;
 
 // Topbar links
-$topbar-link-font-size: rem-calc(13);
+$topbar-link-font-size: rem-calc(16);
 $topbar-link-color-active: $topbar-link-color;
 $topbar-link-weight: $font-weight-bold;
 $topbar-link-color-hover: darken($topbar-link-color, 14%);
@@ -83,3 +84,9 @@ $topbar-link-bg-active-hover: $topbar-bg-color;
 $text-direction: rtl;
 $default-float: right;
 $opposite-direction: left;
+
+$body-font-color: $hla-black;
+$header-font-color: $hla-black;
+
+$paragraph-font-size: rem-calc(14);
+$paragraph-line-height: rem-calc(19);
