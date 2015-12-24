@@ -23,6 +23,9 @@ require_once( 'library/initialization.php' );
 /** Pet model */
 require_once( 'library/pet-model.php' );
 
+/** Pet comments walker **/
+require_once( 'library/pet-comments.php' );
+
 /** Required for Foundation to work properly */
 require_once( 'library/foundation.php' );
 

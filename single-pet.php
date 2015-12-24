@@ -46,6 +46,8 @@ get_header(); ?>
       </div>
 
       </div>
+
+      <?php comments_template( '/pet-comments.php' ); ?>
     </article>
   <?php endwhile;?>
 

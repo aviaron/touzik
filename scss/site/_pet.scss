@@ -108,6 +108,35 @@
   }
 }
 
+.comment-list {
+  list-style: none;
+  li {
+    background-color: #f3f9ef;
+    border-radius: 10px;
+    padding: 35px;
+    margin-bottom: 25px;
+  }
+}
+
+.comment-author {
+	border-top: 5px solid #9aca79;
+	padding: 0;
+	time {
+		display: block;
+		margin: 15px 0;
+		color: #9aca79;
+		font-weight: bold;
+		font-size: 2em;
+		line-height: 1em;
+	}
+	cite {
+		display: block;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 1em;
+	}
+}
+
 .more-dogs {
   h1 {
     text-align: center;
