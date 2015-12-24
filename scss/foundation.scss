@@ -75,6 +75,7 @@ $slick-loader-path: '/wp-content/themes/touzik/bower_components/slick.js/slick/'
 */
 
 @import "site/global";
+@import "site/mixins";
 @import "site/wp-admin";
 @import "site/topbar";
 @import "site/footer";
