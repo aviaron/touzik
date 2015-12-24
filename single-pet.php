@@ -49,6 +49,16 @@ get_header(); ?>
     </article>
   <?php endwhile;?>
 
+  <section class="more-dogs">
+    <h1>כלבים נוספים לאימוץ</h1>
+    <ul class="homepage-box-list">
+      <?= render_results(random_pets()) ?>
+      <li class="all-link large-4 large-offset-4 small-12">
+        <a class="all button" href="/">עוד כלבים</a>
+      </li>
+    </ul>
+  </section>
+
   <?php do_action( 'foundationpress_after_content' ); ?>
 
   </div>
