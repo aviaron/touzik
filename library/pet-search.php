@@ -44,20 +44,25 @@ function pet_search() {
 	if ( $posts ) {
 		render_results($posts);
 	} else {
-		$posts = get_posts(array(
-			'posts_per_page' => 3,
-			'post_type' => 'pet',
-			'orderby' => 'rand'
-		));
+		$posts = random_pets();
 ?>
 	<li class="no-results small-12 large-12 columns">
-		לא נמצאו תוצאות על פי פרמטרי החיפוש. אולי הכלבים הבאים יענינו אותך:
+		לא נמצאו תוצאות על פי פרמטרי החיפוש. אולי הכלבים הבאים יעניינו אותך.
+		<h2 class="text-center">כלבים נוספים לאימוץ</h2>
 	</li>
 <?php
 		render_results($posts);
 	}
 
 	exit;
+}
+
+function random_pets() {
+	return get_posts(array(
+		'posts_per_page' => 3,
+		'post_type' => 'pet',
+		'orderby' => 'rand'
+	));
 }
 
 ?>
