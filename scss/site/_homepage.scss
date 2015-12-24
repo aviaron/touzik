@@ -32,17 +32,41 @@ li.placeholder {
     justify-content: space-between;
   }
 
-  .pet-attributes {
+  .pet-badges {
+    list-style-type: none;
+    margin: 10px 0 0;
+
     li {
-      width: 30px;
-      padding-top: 35px;
-      margin: 0 {
-        right: 5px;
+      display: inline-block;
+      width: 26px;
+      height: 26px;
+      margin: 0;
+      vertical-align: top;
+      text-align: center;
+      color: #fff;
+    }
+
+    li.age {
+      background-color: #6eb980;
+      border-radius: 50%;
+      span {
+        font-weight: bold;
+        line-height: 22px;
+        font-size: 1.2em;
       }
-
+      &.puppy span { font-size: 0.9em; }
+    }
+    li.male, li.female {
+      background: transparent no-repeat center top;
+      background-size: contain;
       span { display: none; }
+    }
 
-      &:nth-child(n+4) { display: none; }
+    li.female {
+      background-image: url('../assets/img/attributes/female.png');
+    }
+    li.male {
+      background-image: url('../assets/img/attributes/male.png');
     }
   }
 
