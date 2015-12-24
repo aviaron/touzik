@@ -27,21 +27,22 @@
       background-color: #fff;
       border-radius: 50%;
       font-size: 30px;
-      font-family: dashicons;
+      font-family: FontAwesome;
       color: #333;
       padding: 10px;
+      display: block;
     }
   }
 
   .slick-prev {
     right: -75px;
-    &::before { content: "\f345"; }
+    &::before { content: "\f105"; }
   }
 
   .slick-next {
     left: -75px;
 
-    &:before { content: "\f341"; }
+    &:before { content: "\f104"; }
   }
 }
 
