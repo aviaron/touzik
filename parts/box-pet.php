@@ -10,7 +10,24 @@
   <div class="pet-details">
     <header>
       <h2><?php the_title(); ?></h2>
-      <?php get_template_part( 'parts/pet-attributes' ); ?>
+      <ul class="pet-badges">
+        <?php
+          $age = abs( ( time() - strtotime( get_field( 'birthday' ) ) ) );
+          $y = floor( $age / (365*60*60*24) );
+          if ($y == 0) {
+            $m = floor( $age / (30*60*60*24) );
+            $age_s = "$y.$m";
+          } else {
+            $age_s = $y;
+          }
+        ?>
+        <li class="age <?= $y == 0 ? 'puppy' : '' ?>" title="<?= $age_s ?> years old">
+          <span><?= $age_s ?></span>
+        </li>
+        <li class="<?= esc_attr( get_field( 'sex' ) ) ?>" title="<?= esc_attr( get_field( 'sex' ) )?>">
+          <span><?= esc_html( get_field_object( 'sex' )['choices'][get_field( 'sex' )] )?></span>
+        </li>
+      </ul>
     </header>
     <div class="pet-description">
       <?php the_content(); ?>
