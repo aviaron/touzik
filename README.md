@@ -184,3 +184,4 @@ Pull requests are highly appreciated. Please follow these guidelines:
 * Contact Form 7
 * Contact Form 7 Modules: Hidden Fields
 * Flamingo
+* Google Analytics
