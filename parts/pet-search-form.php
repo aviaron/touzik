@@ -21,5 +21,6 @@ function search_options_for($name, $default_label) {
   <?php search_options_for('breed', 'כל הגזעים'); ?>
   <?php search_options_for('sex', 'כל המינים'); ?>
   <?php search_options_for('size', 'כל הגדלים'); ?>
+  <input type="hidden" name="adopted" value="0" />
 
 </form>
