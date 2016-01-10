@@ -23,7 +23,7 @@ function pet_search() {
 		'relation' => 'AND'
 	);
 
-	foreach( ['sex', 'size', 'breed'] as $criterion ) {
+	foreach( ['sex', 'size', 'breed', 'adopted'] as $criterion ) {
 		if ( isset( $_REQUEST[$criterion] ) && $_REQUEST[$criterion] != '' ) {
 			$meta_query[] = array(
 				'key' => $criterion,
