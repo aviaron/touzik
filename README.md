@@ -178,3 +178,10 @@ Pull requests are highly appreciated. More than three dozen amazing people have 
 
 * [Zurb Foundation Docs](http://foundation.zurb.com/docs/)
 * [WordPress Codex](http://codex.wordpress.org/)
+
+## Wordpress plugins that need to be installed
+* ACF - Advanced Custom Fields
+* Jetpack
+* Contact Form 7
+* Contact Form 7 Modules: Hidden Fields
+* Flamingo
