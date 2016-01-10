@@ -172,3 +172,15 @@ Pull requests are highly appreciated. Please follow these guidelines:
 2. Make sure that your code is bug-free and does not introduce new bugs
 3. Create a [pull request](https://help.github.com/articles/creating-a-pull-request)
 4. Verify that all the Travis-CI build checks have passed
+
+## Documentation
+
+* [Zurb Foundation Docs](http://foundation.zurb.com/docs/)
+* [WordPress Codex](http://codex.wordpress.org/)
+
+## Wordpress plugins that need to be installed
+* ACF - Advanced Custom Fields
+* Jetpack
+* Contact Form 7
+* Contact Form 7 Modules: Hidden Fields
+* Flamingo
