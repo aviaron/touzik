@@ -243,6 +243,14 @@ acf_add_local_field_group(array (
       'toggle' => 0,
     ),
     array (
+      'key' => 'field_55c3661b33c48',
+      'label' => 'זקוק לאומנה',
+      'name' => 'needs_foster',
+      'type' => 'true_false',
+      'required' => 0,
+      'default_value' => 0,
+    ),
+    array (
       'key' => 'field_55c2721b33b56',
       'label' => 'אומץ',
       'name' => 'adopted',

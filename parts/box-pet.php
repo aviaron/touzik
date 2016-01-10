@@ -8,6 +8,12 @@
   <?php endif; ?>
 
   <div class="pet-details">
+    <?php if (get_field('needs_foster') == 1): ?>
+      <div class="foster-badge">
+        זקוק לאומנה
+      </div>
+    <?php endif ?>
+
     <header>
       <h2><?php the_title(); ?></h2>
       <ul class="pet-badges">

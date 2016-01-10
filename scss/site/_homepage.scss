@@ -95,6 +95,25 @@ li.placeholder {
 
   .pet-details {
     padding: 3px 5px 8px;
+    position: relative;
+
+    .foster-badge {
+      $foster-badge-width: 80px;
+      width: $foster-badge-width;
+
+      position: absolute;
+      left: calc(50% - #{$foster-badge-width / 2});
+      top: -11px;
+
+      box-shadow: 0 1px 2px rgba(30, 30, 30, 0.1);
+
+      font-weight: bold;
+      text-align: center;
+      background-color: #FEFA75;
+      color: #F28F34;
+      border-radius: 5px;
+      font-size: 12px;
+    }
 
     .pet-description {
       margin-top: 10px;
