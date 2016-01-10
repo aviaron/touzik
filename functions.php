@@ -61,6 +61,8 @@ require_once( 'library/facebook-sdk.php' );
 
 require_once( 'library/pet-search.php' );
 
+require_once( 'library/pet-share.php' );
+
 /** Admin actions controller */
 if ( current_user_can( 'edit_others_posts' ) ) {
   require_once( 'library/admin-controller.php');

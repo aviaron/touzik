@@ -33,7 +33,9 @@ get_header(); ?>
         <div class="entry-content large-8 small-12 columns">
           <header>
             <h1 class="entry-title"><?php the_title(); ?></h1>
+            <?php share_buttons() ?>
           </header>
+
           <?php the_content(); ?>
 
           <?php get_template_part( 'parts/pet-attributes' ); ?>
