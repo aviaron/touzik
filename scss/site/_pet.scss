@@ -67,6 +67,25 @@
 }
 
 .entry-content {
+  header {
+    position: relative;
+
+    .entry-share {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      font-size: 20px;
+
+      li {
+	margin-right: 10px;
+
+	&:first-child { font-size: 16px; }
+
+	a { color: $hla-black; }
+      }
+    }
+  }
+
   p {
     font-size: 20px;
   }
