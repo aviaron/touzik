@@ -185,3 +185,4 @@ Pull requests are highly appreciated. More than three dozen amazing people have 
 * Contact Form 7
 * Contact Form 7 Modules: Hidden Fields
 * Flamingo
+* Google Analytics
