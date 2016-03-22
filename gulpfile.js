@@ -26,6 +26,8 @@ var PATHS = {
   sass: [
     'assets/components/foundation-sites/scss',
     'assets/components/motion-ui/src',
+    'assets/components/slick.js/slick/slick.css',
+    'assets/components/slick.js/slick/slick-theme.css',
     'assets/components/fontawesome/scss',
   ],
   javascript: [
@@ -56,6 +58,12 @@ var PATHS = {
 
     // Motion UI
     'assets/components/motion-ui/motion-ui.js',
+
+    // Slick JS
+    'assets/components/slick.js/slick/slick.js',
+
+    // HTML Sortable
+    'assets/components/html.sortable/dist/html.sortable.js',
 
     // Include your own custom scripts (located in the custom folder)
     'assets/javascript/custom/*.js',
