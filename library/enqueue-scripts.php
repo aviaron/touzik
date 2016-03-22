@@ -32,13 +32,10 @@ if ( ! function_exists( 'foundationpress_scripts' ) ) :
 		wp_enqueue_script( 'comment-reply' );
 	}
 
-  wp_register_script( 'ajax', get_template_directory_uri() . '/js/vendor/fastclick.js', array(), '1.0.0', false );
-
-  wp_register_script( 'admin_homepage', get_template_directory_uri() . '/js/admin/homepage.js', array(), '1.0.0', true );
+  wp_register_script( 'admin_homepage', get_template_directory_uri() . '/assets/javascript/admin/homepage.js', array(), '1.0.0', true );
 
 	// Enqueue all registered scripts.
 	wp_enqueue_script( 'modernizr' );
-	wp_enqueue_script( 'fastclick' );
 	wp_enqueue_script( 'jquery' );
 	wp_enqueue_script( 'foundation' );
 
