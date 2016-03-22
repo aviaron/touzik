@@ -3,6 +3,10 @@
 function facebook_graph_metatags() {
   global $post;
 
+  if ( !isset($post) ) {
+    return;
+  }
+
   $description = $post->post_content; // can't use the_description since not in the_loop :(
   if ( empty( $description ) ) {
     $description = get_bloginfo( 'description' );
