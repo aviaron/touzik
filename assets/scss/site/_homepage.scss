@@ -127,7 +127,7 @@ li.placeholder {
     }
   }
 
-  .button {
+  a.button {
     position: absolute;
     bottom: 20px;
     left: 20px;
@@ -164,7 +164,23 @@ li.placeholder {
   form {
     @include contact-form;
 
+    p:last-of-type {
+      position: relative;
+      margin-top: 18px;
+    }
+    .button {
+      width: 100%;
+      position: absolute;
+      top: 11px;
+      left: 0;
+      right: 0;
+      height: 33px;
+      line-height: 32px;
+    }
     .wpcf7-text { background-color: #f3f3f3; }
+
+    .wpcf7-validation-errors, .wpcf7-not-valid-tip { display: none !important; }
+    .wpcf7-response-output { margin: 0; }
   }
 }
 
@@ -230,6 +246,10 @@ li.placeholder {
 
     input:not(.button) {
       margin-bottom: 5px;
+    }
+
+    form {
+      p { margin-bottom: 0; }
     }
   }
 

@@ -1,4 +1,8 @@
 @mixin contact-form {
+  &.sent {
+    input, textarea { display: none !important; }
+  }
+
   textarea { height: 75px; }
 
   input, textarea {
@@ -16,6 +20,8 @@
     padding: 0;
     line-height: 36px;
   }
+
+  input.wpcf7-not-valid { border: 1px solid $alert-color; }
 }
 
 @mixin color-button($button_color) {
