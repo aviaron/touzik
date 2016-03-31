@@ -41,12 +41,15 @@
 		</div>
 
 		<nav id="site-navigation" class="main-navigation top-bar" role="navigation">
-			<div class="top-bar-left">
-				<ul class="menu">
-					<li class="home"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></li>
-				</ul>
-			</div>
 			<div class="top-bar-right">
+				<div class="title-area">
+          <h1><a href="http://hla.sag.im">
+            <span>הרצליה אוהבת חיות!</span>
+            <img src="http://hla.sag.im/wp-content/themes/touzik/assets/img/hla-logo.png">
+          </a></h1>
+	      </div>
+			</div>
+			<div class="top-bar-left">
 				<?php foundationpress_top_bar_r(); ?>
 
 				<?php if ( ! get_theme_mod( 'wpt_mobile_menu_layout' ) || get_theme_mod( 'wpt_mobile_menu_layout' ) == 'topbar' ) : ?>
