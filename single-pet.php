@@ -55,10 +55,10 @@ get_header(); ?>
 
   <section class="more-dogs">
     <h1>כלבים נוספים לאימוץ</h1>
-    <ul class="homepage-box-list">
+    <ul class="homepage-box-list row">
       <?= render_results(random_pets()) ?>
     </ul>
-    <ul class="homepage-box-list aligned-center">
+    <ul class="homepage-box-list row aligned-center">
       <li class="all-link large-4 large-centered small-12 columns">
         <a class="all button" href="/">עוד כלבים</a>
       </li>
