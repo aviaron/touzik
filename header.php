@@ -43,9 +43,9 @@
 		<nav id="site-navigation" class="main-navigation top-bar" role="navigation">
 			<div class="top-bar-right">
 				<div class="title-area">
-          <h1><a href="http://hla.sag.im">
+          <h1><a href="/">
             <span>הרצליה אוהבת חיות!</span>
-            <img src="http://hla.sag.im/wp-content/themes/touzik/assets/img/hla-logo.png">
+            <img src="/wp-content/themes/touzik/assets/img/hla-logo.png">
           </a></h1>
 	      </div>
 			</div>
