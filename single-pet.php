@@ -57,6 +57,8 @@ get_header(); ?>
     <h1>כלבים נוספים לאימוץ</h1>
     <ul class="homepage-box-list">
       <?= render_results(random_pets()) ?>
+    </ul>
+    <ul class="homepage-box-list aligned-center">
       <li class="all-link large-4 large-centered small-12 columns">
         <a class="all button" href="/">עוד כלבים</a>
       </li>
