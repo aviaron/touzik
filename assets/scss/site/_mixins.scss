@@ -3,7 +3,7 @@
     input, textarea { display: none !important; }
   }
 
-  textarea { height: 75px; }
+  textarea[rows] { height: 75px; }
 
   input, textarea {
     line-height: 35px;
