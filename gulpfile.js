@@ -26,8 +26,7 @@ var PATHS = {
   sass: [
     'assets/components/foundation-sites/scss',
     'assets/components/motion-ui/src',
-    'assets/components/slick.js/slick/slick.css',
-    'assets/components/slick.js/slick/slick-theme.css',
+    'assets/components/slick.js/slick',
     'assets/components/fontawesome/scss',
   ],
   javascript: [
