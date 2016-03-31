@@ -112,7 +112,7 @@
   $attributes_list: calm energetic housebroken hypoallergenic licker low-shedder neutered noble puppy;
   @each $attribute in $attributes_list {
     li.#{$attribute} {
-      background-image: url('../img/attributes/#{$attribute}.png');
+      background-image: url('../images/attributes/#{$attribute}.png');
     }
   }
 }
