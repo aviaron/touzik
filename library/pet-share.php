@@ -46,7 +46,7 @@ $share_links = array(
 
 ?>
 
-<ul class="entry-share inline-list">
+<ul class="entry-share menu">
   <li>שתף:</li>
   <li><a href="<?= $share_links['mail'] ?>"><i class="fa fa-envelope"></i></a></li>
   <li><a href="<?= $share_links['facebook'] ?>" target="_blank"><i class="fa fa-facebook"></i></a></li>

@@ -77,11 +77,13 @@
       font-size: 20px;
 
       li {
-	margin-right: 10px;
+        &:first-child { font-size: 16px; }
 
-	&:first-child { font-size: 16px; }
-
-	a { color: $hla-black; }
+        a {
+          color: $hla-black;
+          padding: 0 5px;
+          i { margin: 0; }
+        }
       }
     }
   }
