@@ -14,7 +14,9 @@
 	<head>
 		<meta charset="<?php bloginfo( 'charset' ); ?>" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<link rel="icon" href="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/icons/favicon.ico" type="image/x-icon">
+		<link rel="icon" type="image/png" href="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/icons/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/icons/favicon-16x16.png" sizes="16x16">
+		<link rel="icon" type="image/png" href="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/icons/favicon.ico" type="image/x-icon">
 		<?php wp_head(); ?>
 	</head>
 	<body <?php body_class(); ?>>
@@ -39,11 +41,11 @@
 		<nav id="site-navigation" class="main-navigation top-bar" role="navigation">
 			<div class="top-bar-right">
 				<div class="title-area">
-          <h1><a href="/">
-            <span>הרצליה אוהבת חיות!</span>
-            <img src="<?php echo get_bloginfo('template_directory') ?>/assets/images/hla-logo.png">
-          </a></h1>
-	      </div>
+					<h1><a href="/">
+						<span>הרצליה אוהבת חיות!</span>
+						<img src="<?php echo get_bloginfo('template_directory') ?>/assets/images/hla-logo.png">
+					</a></h1>
+				</div>
 			</div>
 			<div class="top-bar-left">
 				<?php foundationpress_top_bar_r(); ?>
