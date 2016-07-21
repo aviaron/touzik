@@ -37,6 +37,16 @@ function foundationpress_sidebar_widgets() {
 	  'before_title' => '<h6>',
 	  'after_title' => '</h6>',
 	));
+
+	register_sidebar(array(
+	  'id' => 'adoption-widget',
+	  'name' => __( 'Adoption widget', 'foundationpress' ),
+	  'description' => __( 'Drag widgets to this container', 'foundationpress' ),
+	  'before_widget' => '<div id="%1$s" class="widget %2$s">',
+	  'after_widget' => '</div>',
+	  'before_title' => '<div class="adoption-widget-title">',
+	  'after_title' => '</div>',
+	));
 }
 
 add_action( 'widgets_init', 'foundationpress_sidebar_widgets' );

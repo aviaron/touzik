@@ -5,9 +5,18 @@ Template Name: Homepage
 get_header(); ?>
 
 <div class="row">
-  <?php get_template_part( 'parts/pet-search-form' ); ?>
 
-  <div class="small-12 large-12 columns" role="main">
+  <div class="small-12 large-6 columns adoption-text" role="main">
+    <?php dynamic_sidebar( 'adoption-widget' ); ?>
+  </div>
+
+  <div class="small-12 large-6 columns" role="main">
+    <?php get_template_part( 'parts/pet-search-form' ); ?>
+  </div>
+
+</div>
+
+<div class="row">
   <?php
 
     $posts = get_posts(array(
