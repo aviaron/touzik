@@ -22,9 +22,27 @@
 
 .title-area {
   h1 a {
-    margin-top: 0px;
-    span { display: none; }
+    $size: 100px;
+
     display: block;
+    height: $size;
+    background: transparent url('../images/hla-logo-small.png') no-repeat 100% 50%;
+    background-size: $size;
+    padding: 10px ($size + 10px) 0 0;
+    color: $hla-black;
+
+    span { display: block; }
+
+    .name {
+      font-size: 34px;
+      width: 180px;
+      line-height: 0.8em;
+      letter-spacing: -0.5px
+    }
+    .description {
+      margin-top: 5px;
+      font-size: 16px;
+    }
   }
 }
 

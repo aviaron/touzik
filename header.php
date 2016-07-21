@@ -42,8 +42,8 @@
 			<div class="top-bar-right">
 				<div class="title-area">
 					<h1><a href="/">
-						<span>הרצליה אוהבת חיות!</span>
-						<img src="<?php echo get_bloginfo('template_directory') ?>/assets/images/hla-logo.png">
+						<span class="name"><?php echo get_bloginfo('name') ?></span>
+						<span class="description"><?php echo get_bloginfo('description') ?></span>
 					</a></h1>
 				</div>
 			</div>
