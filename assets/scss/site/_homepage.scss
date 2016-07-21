@@ -22,6 +22,7 @@ li.placeholder {
 .homepage-box {
   display: block;
   height: 310px;
+  overflow: hidden;
 
   background-color: white;
   padding: 5px;
@@ -101,6 +102,20 @@ li.placeholder {
     vertical-align: middle;
 
     img { width: 100%; }
+  }
+
+  .adopted-badge {
+    position: absolute;
+    right: -30px;
+    top: 20px;
+    transform: rotate(45deg);
+    width: 130px;
+    height: 30px;
+    background: #9DCC7D url('../images/steak.png') no-repeat 83px 8px;
+    background-size: 19px;
+    color: #34690F;
+    line-height: 30px;
+    padding-right: 50px;
   }
 
   .pet-details {

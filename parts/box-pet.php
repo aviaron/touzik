@@ -7,6 +7,12 @@
     </div>
   <?php endif; ?>
 
+  <?php if (get_field('adopted') == 1): ?>
+    <div class="adopted-badge">
+      אומצ/ה
+    </div>
+  <?php endif ?>
+
   <div class="pet-details">
     <?php if (get_field('needs_foster') == 1): ?>
       <div class="foster-badge">
