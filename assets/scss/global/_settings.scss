@@ -65,7 +65,7 @@ $hla-text: #85a869;
 $hla-black: #4c4c4c;
 $body-background: $white;
 $body-font-color: $hla-black;
-$body-font-family: "Alef", Helvetica, Roboto, Arial, sans-serif;
+$body-font-family: Alef, Helvetica, Roboto, Arial, sans-serif;
 $body-antialiased: true;
 $global-margin: 1rem;
 $global-padding: 1rem;
@@ -105,7 +105,7 @@ $block-grid-max: 8;
 // 4. Base Typography
 // ------------------
 
-$header-font-family: $body-font-family;
+$header-font-family: "Secular One", Helvetica, Roboto, Arial, sans-serif;
 $header-font-weight: 300;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
