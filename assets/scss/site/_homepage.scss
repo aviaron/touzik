@@ -15,6 +15,10 @@ li.placeholder {
   li:last-child:not(:first-child) { float: right; }
 }
 
+.adoption-text {
+  color: $hla-text;
+}
+
 .homepage-box {
   display: block;
   height: 310px;

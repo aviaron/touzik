@@ -185,3 +185,9 @@ Pull requests are highly appreciated. Please follow these guidelines:
 * Contact Form 7 Modules: Hidden Fields
 * Flamingo
 * Google Analytics
+
+After Setup:
+* Setup widgets
+* Setup menus
+* Add 'adopted count' widget
+* Set up Contact Form 7 to send emails to org
