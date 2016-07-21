@@ -47,6 +47,9 @@
 					</a></h1>
 				</div>
 			</div>
+			<div class="top-bar-end">
+				<?php dynamic_sidebar( 'topbar-end' ) ?>
+			</div>
 			<div class="top-bar-left">
 				<?php foundationpress_top_bar_r(); ?>
 
