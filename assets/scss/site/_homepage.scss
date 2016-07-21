@@ -325,7 +325,7 @@ li.placeholder {
 .homepage-box-white  { @include color-box(#fff);    }
 
 #pet-search-form {
-  float: left;
+  display: inline-block;
   margin-left: 15px;
 
   select {
@@ -358,4 +358,20 @@ li.placeholder {
     border-radius: 20px;
   }
   h2 { margin: 0; }
+}
+
+.cat-switch {
+  display: inline-block;
+  background: transparent url('../images/cat-switch.png') no-repeat 0 0;
+  background-size: contain;
+  width: 100px;
+  height: 26px;
+
+  span, a {
+    font-size: 14px;
+    color: white;
+    display: inline-block;
+    width: 46px;
+    text-align: center;
+  }
 }
