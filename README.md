@@ -191,3 +191,4 @@ After Setup:
 * Setup menus
 * Add 'adopted count' widget
 * Set up Contact Form 7 to send emails to org
+* Set up google analytics
