@@ -43,7 +43,7 @@
 	<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>flamingo_inbound_channel</wp:term_taxonomy><wp:term_slug>%d7%94%d7%aa%d7%a2%d7%a0%d7%99%d7%99%d7%a0%d7%95%d7%aa-%d7%9b%d7%9c%d7%9c%d7%99%d7%aa</wp:term_slug><wp:term_parent>contact-form-7</wp:term_parent><wp:term_name><![CDATA[התעניינות כללית]]></wp:term_name></wp:term>
 	<wp:term><wp:term_id>6</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>%d7%aa%d7%a4%d7%a8%d7%99%d7%98-%d7%a2%d7%9c%d7%99%d7%95%d7%9f</wp:term_slug><wp:term_name><![CDATA[תפריט עליון]]></wp:term_name></wp:term>
 
-	
+
 
 	<item>
 		<title>funny dog pictures : http://www.funnydogsite.com/</title>
@@ -2662,6 +2662,8 @@ Reply-To: admin@local.dev
 		<content:encoded><![CDATA[[text* your-name placeholder "שם מלא"]
 
 [tel* your-tel placeholder "מספר טלפון"]
+
+[text* city placeholder "עיר"]
 
 [submit class:button class:success "שלח"]
 [your-subject]
