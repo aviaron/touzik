@@ -55,8 +55,8 @@ acf_add_local_field_group(array (
       'type' => 'radio',
       'required' => 0,
       'choices' => array (
-        'male' => 'זכר',
-        'female' => 'נקבה',
+        'male' => 'ז',
+        'female' => 'נ',
         'other' => 'אחר',
       ),
       'layout' => 'horizontal',
