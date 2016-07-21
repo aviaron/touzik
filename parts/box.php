@@ -5,7 +5,7 @@
 <?php endif; ?>
 
 <div class="box-content">
-  <h2><?= the_title() ?></h2>
+  <h3><?= the_title() ?></h3>
   <?= the_content() ?>
 </div>
 
