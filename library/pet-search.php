@@ -59,7 +59,7 @@ function pet_search() {
 
 function random_pets() {
 	return get_posts(array(
-		'posts_per_page' => 3,
+		'posts_per_page' => 6,
 		'post_type' => 'pet',
 		'orderby' => 'rand'
 	));
