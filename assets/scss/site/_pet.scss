@@ -101,7 +101,10 @@
     margin-left: 20px;
   }
 
-  $attributes_list: calm energetic housebroken hypoallergenic licker low-shedder neutered noble puppy;
+  $attributes_list: calm energetic female genius goodwithcats goodwithdogs
+    goodwithkids housebroken hungry hypoallergenic licker licking low-shedder
+    male neutered noble playfull puppy shedding;
+
   @each $attribute in $attributes_list {
     li.#{$attribute} {
       background-image: url('../images/attributes/#{$attribute}.png');
