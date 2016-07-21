@@ -67,23 +67,15 @@
 }
 
 .entry-content {
-  header {
-    position: relative;
+  .entry-share {
+    font-size: 20px;
 
-    .entry-share {
-      position: absolute;
-      top: 20px;
-      left: 20px;
-      font-size: 20px;
-
-      li {
-        &:first-child { font-size: 16px; }
-
-        a {
-          color: $hla-black;
-          padding: 0 5px;
-          i { margin: 0; }
-        }
+    li {
+      padding-left: 7px;
+      a {
+        color: $hla-black;
+        padding: 0 5px;
+        i { margin: 0; }
       }
     }
   }
@@ -95,7 +87,7 @@
 
 .pet-attributes {
   list-style-type: none;
-  margin: 30px 0 0;
+  margin: 15px 0 0;
 
   li {
     display: inline-block;
