@@ -6,7 +6,11 @@ li.placeholder {
 
 .homepage-box-list {
   list-style: none;
-  li { margin-bottom: 30px; }
+  li {
+    margin-bottom: 15px;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
 
   li:last-child:not(:first-child) { float: right; }
 }
