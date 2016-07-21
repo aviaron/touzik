@@ -47,7 +47,7 @@ function pet_search() {
 		$posts = random_pets();
 ?>
 	<li class="no-results small-12 large-12 columns">
-		לא נמצאו תוצאות על פי פרמטרי החיפוש. אולי הכלבים הבאים יעניינו אותך.
+		<p>לא נמצאו תוצאות על פי פרמטרי החיפוש. אולי הכלבים הבאים יעניינו אותך.</p>
 		<h2 class="text-center">כלבים נוספים לאימוץ</h2>
 	</li>
 <?php

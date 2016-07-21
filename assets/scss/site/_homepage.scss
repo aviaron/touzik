@@ -332,3 +332,15 @@ li.placeholder {
   font-size: 20px;
   color: $hla-text;
 }
+
+.no-results {
+  p {
+    margin: 0;
+    padding: 10px;
+    font-size: 18px;
+    text-align: center;
+    background-color: #bfe4a6;
+    border-radius: 20px;
+  }
+  h2 { margin: 0; }
+}
