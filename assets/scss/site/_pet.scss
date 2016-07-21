@@ -1,5 +1,5 @@
 .pet-gallery {
-  height: 480px;
+  height: 350px;
   list-style-type: none;
   text-align: center;
   margin-right: 0;
@@ -10,7 +10,7 @@
     background-color: darken($hla-green, 2%);
 
     img {
-      max-height: 480px;
+      max-height: 350px;
       margin: 0 auto;
     }
   }
