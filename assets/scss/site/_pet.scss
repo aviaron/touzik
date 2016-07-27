@@ -102,8 +102,8 @@
   }
 
   $attributes_list: calm energetic female genius goodwithcats goodwithdogs
-    goodwithkids housebroken hungry hypoallergenic licker licking low-shedder
-    male neutered noble playfull puppy shedding;
+    goodwithkids housebroken hungry hypoallergenic licker low-shedder male
+    neutered noble playfull puppy;
 
   @each $attribute in $attributes_list {
     li.#{$attribute} {

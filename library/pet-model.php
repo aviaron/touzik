@@ -242,8 +242,6 @@ acf_add_local_field_group(array (
         'goodwithdogs' => 'מסתדר עם כלבים',
         'goodwithkids' => 'מסתדר עם ילדים',
         'hungry' => 'גרגרן',
-        'licking' => 'לקקן',
-        'shedding' => 'לא משיר שיער',
       ),
       'default_value' => array (
       ),
