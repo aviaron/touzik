@@ -64,7 +64,9 @@ get_header(); ?>
       <?php wp_reset_postdata(); ?>
 
     <?php endif; ?>
-
+    <ul class="homepage-box-list row aligned-center">
+      <?= all_pets_button() ?>
+    </ul>
   </div>
 </div>
 

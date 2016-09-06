@@ -65,4 +65,13 @@ function random_pets() {
 	));
 }
 
+
+function all_pets_button() {
+?>
+  <li class="all-link large-4 large-centered small-12 columns">
+    <a class="all button more-dogs-button" href="/all-dogs">עוד כלבים</a>
+  </li>
+<?php
+}
+
 ?>

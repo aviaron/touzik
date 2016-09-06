@@ -60,9 +60,7 @@ get_header(); ?>
       <?= render_results(random_pets()) ?>
     </ul>
     <ul class="homepage-box-list row aligned-center">
-      <li class="all-link large-4 large-centered small-12 columns">
-        <a class="all button" href="/">עוד כלבים</a>
-      </li>
+      <?= all_pets_button() ?>
     </ul>
   </section>
 
