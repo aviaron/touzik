@@ -24,11 +24,11 @@ get_header(); ?>
   <?php
 
     $posts = get_posts(array(
-      'posts_per_page'  => 18,
-      'post_type' => array('pet' ),
+      'posts_per_page'  => 99,
+      'post_type' => 'pet',
       'meta_key' => 'adopted',
-      'orderby' => 'meta_value_binary',
-      'order' => 'DESC'
+      'orderby' => 'meta_value_num',
+      'order' => 'ASC'
     ));
 
     if( $posts ): ?>
