@@ -4,7 +4,7 @@ Template Name: Homepage
 */
 get_header(); ?>
 
-<div class="row">
+<div class="row topbar">
 
   <div class="small-12 large-6 columns adoption-text" role="main">
     <?php dynamic_sidebar( 'adoption-widget' ); ?>
