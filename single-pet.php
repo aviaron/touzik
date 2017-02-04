@@ -43,7 +43,7 @@ get_header(); ?>
         </div>
 
         <div class="pet-contact large-4 small-12 columns">
-          <h2 class="contact-form">מתעניין באימוץ?</h2>
+          <h2 class="contact-form">מתעניינים באימוץ?</h2>
           <?= do_shortcode( '[contact-form-7 id="35" title="התעניינות באימוץ"]' ); ?>
         </div>
       </div>
