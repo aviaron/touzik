@@ -39,7 +39,7 @@ $share_title .= get_the_title();
 
 $share_links = array(
   'mail' => 'mailto:?subject=' . urlencode($share_title) . '&amp;body=' . urlencode(get_the_permalink()),
-  'facebook' => 'https://www.facebook.com/dialog/feed?app_id=145204419293992&amp;link=' . urlencode(get_the_permalink()) . '&amp;redirect_uri=' . urlencode(get_the_permalink()),
+  'facebook' => 'https://www.facebook.com/dialog/feed?app_id=151076581600624&amp;link=' . urlencode(get_the_permalink()) . '&amp;redirect_uri=' . urlencode(get_the_permalink()),
   'twitter' => 'https://twitter.com/intent/tweet?text=' . urlencode($share_title . ' - ' . get_the_permalink()),
   'whatsapp' => 'whatsapp://send?text=' . urlencode($share_title . ' - ' . get_the_permalink()),
 );
