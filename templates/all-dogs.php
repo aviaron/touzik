@@ -33,7 +33,7 @@ get_header(); ?>
 
     if( $posts ): ?>
 
-      <ul class="homepage-box-list row">
+      <ul class="homepage-box-list homepage-box-list-results row">
 
       <?php foreach( $posts as $post ):
         setup_postdata( $post )

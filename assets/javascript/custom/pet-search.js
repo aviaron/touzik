@@ -2,7 +2,7 @@ $(function(){
 
 	var $form = $('#pet-search-form'),
 			$inputs = $form.find(':input'),
-			$container = $('.homepage-box-list');
+			$container = $('.homepage-box-list-results');
 
 	$form.on('submit', function(e) {
 		e.preventDefault();
