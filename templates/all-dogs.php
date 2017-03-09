@@ -12,7 +12,7 @@ get_header(); ?>
 
   <div class="small-12 large-6 columns text-left" role="main">
     <div class="cat-switch">
-      <a href="https://www.facebook.com/herzelialovesanimals/photos/?tab=album&album_id=378803352131267">חתולים</a>
+      <a href="https://www.facebook.com/herzelialovesanimals/photos/?tab=album&album_id=378803352131267" target="_blank">חתולים</a>
       <span>כלבים</span>
     </div>
     <?php get_template_part( 'parts/pet-search-form' ); ?>
